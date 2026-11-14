@@ -1,0 +1,1278 @@
+[
+  {
+    "lesson_id": "A2_01",
+    "cefr_level": "A2",
+    "topic": "Feelings and Apologies",
+    "scenario_context": "AI Persona: Your flatmate Ekaterina, who looks upset. User Role: Flatmate arriving home. Setting: Shared kitchen in the evening. Action: Ask how she feels, say how you feel, and apologise for forgetting her birthday.",
+    "grammar_focus": [
+      "Questions: Are you...? What's the matter?",
+      "Present simple with to be for feelings"
+    ],
+    "vocabulary_focus": [
+      "hungry / tired",
+      "happy / sad",
+      "angry / worried",
+      "excited / bored",
+      "I'm sorry",
+      "That's OK",
+      "Don't worry",
+      "Are you OK?"
+    ],
+    "functional_objectives": [
+      "Ask people how they feel and say how I feel",
+      "Make and accept apologies"
+    ],
+    "success_criteria": "Learner asks about feelings, describes their own, and makes and accepts an apology naturally.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask people how they feel and say how I feel",
+      "model": [
+        "Are you tired? I'm a little worried about tomorrow.",
+        "I'm sorry I'm late. That's all right."
+      ],
+      "source_text": "Are you tired? I'm a little worried about tomorrow. I'm sorry I'm late. That's all right.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Are you tired? I'm a little worried about tomorrow.",
+        "Guided reply: use this model in a different situation, with less help: I'm sorry I'm late. That's all right."
+      ],
+      "independent_tasks": [
+        "Independent task. Ask how she feels, say how you feel, and apologise for forgetting her birthday. Demonstrate this skill: Ask people how they feel and say how I feel. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make and accept apologies. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Feelings and Apologies."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Feelings and Apologies. Ask the learner to ask people how they feel and say how i feel, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Questions: Are you...? What's the matter?. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Are you tired? I'm a little worried about tomorrow.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I'm sorry I'm late. That's all right.",
+        "Guided reformulation: use this model and change one relevant detail: Are you tired? I'm a little worried about tomorrow.",
+        "Guided reply: use this model in a different situation, with less help: I'm sorry I'm late. That's all right.",
+        "Independent task. Ask how she feels, say how you feel, and apologise for forgetting her birthday. Demonstrate this skill: Ask people how they feel and say how I feel. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make and accept apologies. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Feelings and Apologies.",
+        "Transfer: create a new, explicit situation about Feelings and Apologies. Ask the learner to ask people how they feel and say how i feel, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_02",
+    "cefr_level": "A2",
+    "topic": "Describing People",
+    "scenario_context": "AI Persona: Organiser of a reunion called Mary. User Role: Attendee who has to identify a friend from the group. Setting: Busy hotel lobby. Action: Describe an old friend's appearance and personality so Mary can find them.",
+    "grammar_focus": [
+      "Possessives: 's and s' (my friend's hair, the girls' room)",
+      "Present simple with have/be for description"
+    ],
+    "vocabulary_focus": [
+      "tall and slim",
+      "long blonde hair",
+      "friendly",
+      "shy",
+      "funny",
+      "serious",
+      "quiet",
+      "smart clothes"
+    ],
+    "functional_objectives": [
+      "Describe people",
+      "Describe myself, my family and other people"
+    ],
+    "success_criteria": "Learner describes a person's appearance and personality in at least five sentences using possessives correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe people",
+      "model": [
+        "My friend's hair is dark. Her sister is very patient.",
+        "The boys' room is small, but their garden is large."
+      ],
+      "source_text": "My friend's hair is dark. Her sister is very patient. The boys' room is small, but their garden is large.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: My friend's hair is dark. Her sister is very patient.",
+        "Guided reply: use this model in a different situation, with less help: The boys' room is small, but their garden is large."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe an old friend's appearance and personality so Mary can find them. Demonstrate this skill: Describe people. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe myself, my family and other people. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Describing People."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Describing People. Ask the learner to describe people, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Possessives: 's and s' (my friend's hair, the girls' room). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: My friend's hair is dark. Her sister is very patient.",
+        "Teach this second example, then ask what the speaker is trying to communicate: The boys' room is small, but their garden is large.",
+        "Guided reformulation: use this model and change one relevant detail: My friend's hair is dark. Her sister is very patient.",
+        "Guided reply: use this model in a different situation, with less help: The boys' room is small, but their garden is large.",
+        "Independent task. Describe an old friend's appearance and personality so Mary can find them. Demonstrate this skill: Describe people. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe myself, my family and other people. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Describing People.",
+        "Transfer: create a new, explicit situation about Describing People. Ask the learner to describe people, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_03",
+    "cefr_level": "A2",
+    "topic": "Describing Things",
+    "scenario_context": "AI Persona: Lost-property officer called Mr. Brown. User Role: Traveller who lost a bag. Setting: Railway lost-property office. Action: Describe your bag and its contents by colour, size, material and shape.",
+    "grammar_focus": [
+      "Articles with countable and uncountable nouns (a, an, the, no article)",
+      "Adjective order and 'made of'"
+    ],
+    "vocabulary_focus": [
+      "green / blue / black",
+      "small / round",
+      "made of plastic / leather / cotton",
+      "wallet",
+      "umbrella",
+      "It's got...",
+      "leather jacket",
+      "key"
+    ],
+    "functional_objectives": [
+      "Describe things",
+      "Ask and answer questions about lost objects"
+    ],
+    "success_criteria": "Learner describes an object with colour, size and material, and chooses articles correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe things",
+      "model": [
+        "It's a small blue bag made of cotton.",
+        "The bag is on the table. I use it for shopping."
+      ],
+      "source_text": "It's a small blue bag made of cotton. The bag is on the table. I use it for shopping.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: It's a small blue bag made of cotton.",
+        "Guided reply: use this model in a different situation, with less help: The bag is on the table. I use it for shopping."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe your bag and its contents by colour, size, material and shape. Demonstrate this skill: Describe things. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask and answer questions about lost objects. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Describing Things."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Describing Things. Ask the learner to describe things, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Articles with countable and uncountable nouns (a, an, the, no article). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: It's a small blue bag made of cotton.",
+        "Teach this second example, then ask what the speaker is trying to communicate: The bag is on the table. I use it for shopping.",
+        "Guided reformulation: use this model and change one relevant detail: It's a small blue bag made of cotton.",
+        "Guided reply: use this model in a different situation, with less help: The bag is on the table. I use it for shopping.",
+        "Independent task. Describe your bag and its contents by colour, size, material and shape. Demonstrate this skill: Describe things. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask and answer questions about lost objects. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Describing Things.",
+        "Transfer: create a new, explicit situation about Describing Things. Ask the learner to describe things, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_04",
+    "cefr_level": "A2",
+    "topic": "Habits and Routines",
+    "scenario_context": "AI Persona: Interviewer for a lifestyle magazine called Kate. User Role: Reader answering a survey. Setting: Phone interview. Action: Describe your week, how often you do things and when.",
+    "grammar_focus": [
+      "Adverbs of frequency",
+      "Adverbial phrases of time, place and frequency, including word order (every Tuesday, twice a week)"
+    ],
+    "vocabulary_focus": [
+      "on Sundays",
+      "at the weekend",
+      "every Tuesday",
+      "twice a week",
+      "hardly ever",
+      "usually",
+      "often",
+      "visit my mother"
+    ],
+    "functional_objectives": [
+      "Describe habits and routines",
+      "Ask and answer questions about free time"
+    ],
+    "success_criteria": "Learner describes at least six habits with frequency adverbs and time phrases in correct word order.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe habits and routines",
+      "model": [
+        "I usually cycle to work on weekdays.",
+        "We meet at the library twice a week."
+      ],
+      "source_text": "I usually cycle to work on weekdays. We meet at the library twice a week.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I usually cycle to work on weekdays.",
+        "Guided reply: use this model in a different situation, with less help: We meet at the library twice a week."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe your week, how often you do things and when. Demonstrate this skill: Describe habits and routines. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask and answer questions about free time. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Habits and Routines."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Habits and Routines. Ask the learner to describe habits and routines, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Adverbs of frequency. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I usually cycle to work on weekdays.",
+        "Teach this second example, then ask what the speaker is trying to communicate: We meet at the library twice a week.",
+        "Guided reformulation: use this model and change one relevant detail: I usually cycle to work on weekdays.",
+        "Guided reply: use this model in a different situation, with less help: We meet at the library twice a week.",
+        "Independent task. Describe your week, how often you do things and when. Demonstrate this skill: Describe habits and routines. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask and answer questions about free time. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Habits and Routines.",
+        "Transfer: create a new, explicit situation about Habits and Routines. Ask the learner to describe habits and routines, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_05",
+    "cefr_level": "A2",
+    "topic": "Education and Work",
+    "scenario_context": "AI Persona: HR assistant called David at a job fair. User Role: Candidate presenting their background. Setting: University careers fair. Action: Describe your studies, your present or last job, and what you do at work.",
+    "grammar_focus": [
+      "Present simple vs present continuous",
+      "Questions about work and study"
+    ],
+    "vocabulary_focus": [
+      "university / college",
+      "degree",
+      "job interview",
+      "colleague",
+      "boss",
+      "work in a factory",
+      "I'm studying...",
+      "at the moment"
+    ],
+    "functional_objectives": [
+      "Describe my education, present or last job",
+      "Ask and answer questions about work"
+    ],
+    "success_criteria": "Learner describes education and job in at least six sentences with both present tenses used correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe my education, present or last job",
+      "model": [
+        "I work in a shop, but this week I'm studying at home.",
+        "What are you learning? Do you enjoy your course?"
+      ],
+      "source_text": "I work in a shop, but this week I'm studying at home. What are you learning? Do you enjoy your course?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I work in a shop, but this week I'm studying at home.",
+        "Guided reply: use this model in a different situation, with less help: What are you learning? Do you enjoy your course?"
+      ],
+      "independent_tasks": [
+        "Independent task. Describe your studies, your present or last job, and what you do at work. Demonstrate this skill: Describe my education, present or last job. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask and answer questions about work. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Education and Work."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Education and Work. Ask the learner to describe my education, present or last job, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Present simple vs present continuous. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I work in a shop, but this week I'm studying at home.",
+        "Teach this second example, then ask what the speaker is trying to communicate: What are you learning? Do you enjoy your course?",
+        "Guided reformulation: use this model and change one relevant detail: I work in a shop, but this week I'm studying at home.",
+        "Guided reply: use this model in a different situation, with less help: What are you learning? Do you enjoy your course?",
+        "Independent task. Describe your studies, your present or last job, and what you do at work. Demonstrate this skill: Describe my education, present or last job. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask and answer questions about work. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Education and Work.",
+        "Transfer: create a new, explicit situation about Education and Work. Ask the learner to describe my education, present or last job, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_06",
+    "cefr_level": "A2",
+    "topic": "Hobbies and Interests",
+    "scenario_context": "AI Persona: Club coordinator called Sophie. User Role: Newcomer choosing a hobby club. Setting: Community centre open evening. Action: Talk about hobbies you like and would like to try.",
+    "grammar_focus": [
+      "Verb + -ing / infinitive (like, love, want, would like)",
+      "Gerunds as subjects (Walking is good exercise)"
+    ],
+    "vocabulary_focus": [
+      "go jogging",
+      "enjoy dancing",
+      "playing tennis",
+      "washing up",
+      "join a club",
+      "interesting",
+      "leisure activities",
+      "I'd like to try..."
+    ],
+    "functional_objectives": [
+      "Describe my hobbies and interests",
+      "Express likes and dislikes"
+    ],
+    "success_criteria": "Learner uses like/love/hate + -ing and would like/want + to correctly across five hobby-related sentences.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe my hobbies and interests",
+      "model": [
+        "I love walking, and I want to learn to swim.",
+        "Cooking is relaxing. I'd like to try a new recipe."
+      ],
+      "source_text": "I love walking, and I want to learn to swim. Cooking is relaxing. I'd like to try a new recipe.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I love walking, and I want to learn to swim.",
+        "Guided reply: use this model in a different situation, with less help: Cooking is relaxing. I'd like to try a new recipe."
+      ],
+      "independent_tasks": [
+        "Independent task. Talk about hobbies you like and would like to try. Demonstrate this skill: Describe my hobbies and interests. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Express likes and dislikes. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Hobbies and Interests."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Hobbies and Interests. Ask the learner to describe my hobbies and interests, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Verb + -ing / infinitive (like, love, want, would like). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I love walking, and I want to learn to swim.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Cooking is relaxing. I'd like to try a new recipe.",
+        "Guided reformulation: use this model and change one relevant detail: I love walking, and I want to learn to swim.",
+        "Guided reply: use this model in a different situation, with less help: Cooking is relaxing. I'd like to try a new recipe.",
+        "Independent task. Talk about hobbies you like and would like to try. Demonstrate this skill: Describe my hobbies and interests. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Express likes and dislikes. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Hobbies and Interests.",
+        "Transfer: create a new, explicit situation about Hobbies and Interests. Ask the learner to describe my hobbies and interests, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_07",
+    "cefr_level": "A2",
+    "topic": "Requests and Offers",
+    "scenario_context": "AI Persona: Colleague called Nareene. User Role: Coworker sharing an office. Setting: Busy open-plan office. Action: Ask to borrow things, ask for help, and offer to help her.",
+    "grammar_focus": [
+      "Modals can/could for requests and offers",
+      "Imperatives with please"
+    ],
+    "vocabulary_focus": [
+      "Could I use your computer?",
+      "Can you open the window?",
+      "Can I help you?",
+      "Shall I carry your bag?",
+      "pass the sugar",
+      "Of course",
+      "borrow",
+      "lend"
+    ],
+    "functional_objectives": [
+      "Make requests politely",
+      "Make and accept offers"
+    ],
+    "success_criteria": "Learner makes four polite requests or offers and responds appropriately to the AI's replies.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Make requests politely",
+      "model": [
+        "Could you close the door, please?",
+        "Can I carry that bag for you? Yes, please."
+      ],
+      "source_text": "Could you close the door, please? Can I carry that bag for you? Yes, please.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Could you close the door, please?",
+        "Guided reply: use this model in a different situation, with less help: Can I carry that bag for you? Yes, please."
+      ],
+      "independent_tasks": [
+        "Independent task. Ask to borrow things, ask for help, and offer to help her. Demonstrate this skill: Make requests politely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make and accept offers. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Requests and Offers."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Requests and Offers. Ask the learner to make requests politely, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Modals can/could for requests and offers. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Could you close the door, please?",
+        "Teach this second example, then ask what the speaker is trying to communicate: Can I carry that bag for you? Yes, please.",
+        "Guided reformulation: use this model and change one relevant detail: Could you close the door, please?",
+        "Guided reply: use this model in a different situation, with less help: Can I carry that bag for you? Yes, please.",
+        "Independent task. Ask to borrow things, ask for help, and offer to help her. Demonstrate this skill: Make requests politely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make and accept offers. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Requests and Offers.",
+        "Transfer: create a new, explicit situation about Requests and Offers. Ask the learner to make requests politely, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_08",
+    "cefr_level": "A2",
+    "topic": "Shopping for Clothes",
+    "scenario_context": "AI Persona: Shop assistant called Chloe. User Role: Shopper looking for something to wear to a party. Setting: Clothing store. Action: Explain what you need, ask about sizes and colours, and ask how much things cost.",
+    "grammar_focus": [
+      "Countables and uncountables: much / many / a lot of",
+      "Articles (a, the, some)"
+    ],
+    "vocabulary_focus": [
+      "jeans / T-shirt",
+      "suit and tie",
+      "size",
+      "try on",
+      "too big / small",
+      "cotton / leather",
+      "How much is it?",
+      "I'll take it"
+    ],
+    "functional_objectives": [
+      "Buy things in shops",
+      "Describe what I want"
+    ],
+    "success_criteria": "Learner completes a purchase, asking about size, colour and price with correct much/many usage.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Buy things in shops",
+      "model": [
+        "Do you have this jacket in a larger size?",
+        "How much money do you want to spend? How many shirts do you need?"
+      ],
+      "source_text": "Do you have this jacket in a larger size? How much money do you want to spend? How many shirts do you need?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Do you have this jacket in a larger size?",
+        "Guided reply: use this model in a different situation, with less help: How much money do you want to spend? How many shirts do you need?"
+      ],
+      "independent_tasks": [
+        "Independent task. Explain what you need, ask about sizes and colours, and ask how much things cost. Demonstrate this skill: Buy things in shops. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe what I want. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Shopping for Clothes."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Shopping for Clothes. Ask the learner to buy things in shops, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Countables and uncountables: much / many / a lot of. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Do you have this jacket in a larger size?",
+        "Teach this second example, then ask what the speaker is trying to communicate: How much money do you want to spend? How many shirts do you need?",
+        "Guided reformulation: use this model and change one relevant detail: Do you have this jacket in a larger size?",
+        "Guided reply: use this model in a different situation, with less help: How much money do you want to spend? How many shirts do you need?",
+        "Independent task. Explain what you need, ask about sizes and colours, and ask how much things cost. Demonstrate this skill: Buy things in shops. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe what I want. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Shopping for Clothes.",
+        "Transfer: create a new, explicit situation about Shopping for Clothes. Ask the learner to buy things in shops, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_09",
+    "cefr_level": "A2",
+    "topic": "Eating Out",
+    "scenario_context": "AI Persona: Waiter called Gino in a family restaurant. User Role: Diner with a food allergy. Setting: Italian restaurant, Friday evening. Action: Ask about the menu, order, mention what you can't eat, and pay.",
+    "grammar_focus": [
+      "Would you like...? / I'd like...",
+      "Countable and uncountable nouns with quantities (a piece of cake, a cup of tea)"
+    ],
+    "vocabulary_focus": [
+      "menu / starter / main course",
+      "dessert",
+      "vegetarian",
+      "allergic to",
+      "a cup of tea",
+      "a piece of cake",
+      "the bill",
+      "delicious"
+    ],
+    "functional_objectives": [
+      "Order food and drink",
+      "Ask for information about food"
+    ],
+    "success_criteria": "Learner orders a full meal, asks two questions about ingredients, and asks for the bill.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Order food and drink",
+      "model": [
+        "I'd like a bowl of soup and a glass of juice.",
+        "Does the soup contain milk? Could we have the bill, please?"
+      ],
+      "source_text": "I'd like a bowl of soup and a glass of juice. Does the soup contain milk? Could we have the bill, please?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I'd like a bowl of soup and a glass of juice.",
+        "Guided reply: use this model in a different situation, with less help: Does the soup contain milk? Could we have the bill, please?"
+      ],
+      "independent_tasks": [
+        "Independent task. Ask about the menu, order, mention what you can't eat, and pay. Demonstrate this skill: Order food and drink. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for information about food. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Eating Out."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Eating Out. Ask the learner to order food and drink, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Would you like...? / I'd like.... This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I'd like a bowl of soup and a glass of juice.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Does the soup contain milk? Could we have the bill, please?",
+        "Guided reformulation: use this model and change one relevant detail: I'd like a bowl of soup and a glass of juice.",
+        "Guided reply: use this model in a different situation, with less help: Does the soup contain milk? Could we have the bill, please?",
+        "Independent task. Ask about the menu, order, mention what you can't eat, and pay. Demonstrate this skill: Order food and drink. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for information about food. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Eating Out.",
+        "Transfer: create a new, explicit situation about Eating Out. Ask the learner to order food and drink, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_10",
+    "cefr_level": "A2",
+    "topic": "Comparing and Choosing",
+    "scenario_context": "AI Persona: Travel agent called Omar. User Role: Customer choosing between two holiday destinations. Setting: High street travel agency. Action: Compare cost, weather and activities and decide which is the best.",
+    "grammar_focus": [
+      "Comparatives with than",
+      "Superlatives with the (the most difficult, the fastest)"
+    ],
+    "vocabulary_focus": [
+      "more expensive than",
+      "cheaper than",
+      "the best",
+      "the most interesting",
+      "beach / mountains",
+      "warmer / colder",
+      "the fastest",
+      "safer"
+    ],
+    "functional_objectives": [
+      "Compare places and things",
+      "Give reasons for a choice"
+    ],
+    "success_criteria": "Learner makes at least four correct comparatives and two superlatives to explain a decision.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Compare places and things",
+      "model": [
+        "The red bike is lighter than the blue one.",
+        "This is the cheapest bike, but that one is the most comfortable."
+      ],
+      "source_text": "The red bike is lighter than the blue one. This is the cheapest bike, but that one is the most comfortable.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The red bike is lighter than the blue one.",
+        "Guided reply: use this model in a different situation, with less help: This is the cheapest bike, but that one is the most comfortable."
+      ],
+      "independent_tasks": [
+        "Independent task. Compare cost, weather and activities and decide which is the best. Demonstrate this skill: Compare places and things. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give reasons for a choice. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Comparing and Choosing."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Comparing and Choosing. Ask the learner to compare places and things, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Comparatives with than. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The red bike is lighter than the blue one.",
+        "Teach this second example, then ask what the speaker is trying to communicate: This is the cheapest bike, but that one is the most comfortable.",
+        "Guided reformulation: use this model and change one relevant detail: The red bike is lighter than the blue one.",
+        "Guided reply: use this model in a different situation, with less help: This is the cheapest bike, but that one is the most comfortable.",
+        "Independent task. Compare cost, weather and activities and decide which is the best. Demonstrate this skill: Compare places and things. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give reasons for a choice. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Comparing and Choosing.",
+        "Transfer: create a new, explicit situation about Comparing and Choosing. Ask the learner to compare places and things, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_11",
+    "cefr_level": "A2",
+    "topic": "Describing Where I Live",
+    "scenario_context": "AI Persona: Foreign exchange student called Ekaterina. User Role: Host telling her about your city. Setting: Walking tour on her first day. Action: Describe your town, its main buildings and what it is famous for.",
+    "grammar_focus": [
+      "Prepositional phrases of place",
+      "Present simple for descriptions (It has..., It is famous for...)"
+    ],
+    "vocabulary_focus": [
+      "capital city",
+      "old buildings",
+      "castle",
+      "architecture",
+      "festival",
+      "in the middle of",
+      "along the river",
+      "famous for"
+    ],
+    "functional_objectives": [
+      "Describe my home and where I live",
+      "Describe places"
+    ],
+    "success_criteria": "Learner describes a place in a short connected paragraph with at least four place prepositions.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe my home and where I live",
+      "model": [
+        "My town is beside a river and near the hills.",
+        "It is famous for its market. There is a park opposite the station."
+      ],
+      "source_text": "My town is beside a river and near the hills. It is famous for its market. There is a park opposite the station.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: My town is beside a river and near the hills.",
+        "Guided reply: use this model in a different situation, with less help: It is famous for its market. There is a park opposite the station."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe your town, its main buildings and what it is famous for. Demonstrate this skill: Describe my home and where I live. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe places. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Describing Where I Live."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Describing Where I Live. Ask the learner to describe my home and where i live, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Prepositional phrases of place. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: My town is beside a river and near the hills.",
+        "Teach this second example, then ask what the speaker is trying to communicate: It is famous for its market. There is a park opposite the station.",
+        "Guided reformulation: use this model and change one relevant detail: My town is beside a river and near the hills.",
+        "Guided reply: use this model in a different situation, with less help: It is famous for its market. There is a park opposite the station.",
+        "Independent task. Describe your town, its main buildings and what it is famous for. Demonstrate this skill: Describe my home and where I live. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe places. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Describing Where I Live.",
+        "Transfer: create a new, explicit situation about Describing Where I Live. Ask the learner to describe my home and where i live, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_12",
+    "cefr_level": "A2",
+    "topic": "Getting Around: Transport and Services",
+    "scenario_context": "AI Persona: Information officer called Diane. User Role: Visitor in a new city. Setting: Bus station information desk. Action: Ask about bus times, buy a return ticket, and ask the way to the shopping centre.",
+    "grammar_focus": [
+      "Prepositional phrases of movement and place (along, across, past, through)",
+      "Question forms for information (Can you tell me...?)"
+    ],
+    "vocabulary_focus": [
+      "return ticket",
+      "platform",
+      "departures",
+      "single / return",
+      "get off",
+      "along the beach",
+      "Can you tell me the way to...?",
+      "What time do you close?"
+    ],
+    "functional_objectives": [
+      "Get simple information about travel and use public transport",
+      "Ask for and give directions"
+    ],
+    "success_criteria": "Learner buys a ticket, asks for directions with movement prepositions, and confirms times.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Get simple information about travel and use public transport",
+      "model": [
+        "A return ticket, please. When does the next train leave?",
+        "Walk across the square and past the museum. Is the stop on the left?"
+      ],
+      "source_text": "A return ticket, please. When does the next train leave? Walk across the square and past the museum. Is the stop on the left?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: A return ticket, please. When does the next train leave?",
+        "Guided reply: use this model in a different situation, with less help: Walk across the square and past the museum. Is the stop on the left?"
+      ],
+      "independent_tasks": [
+        "Independent task. Ask about bus times, buy a return ticket, and ask the way to the shopping centre. Demonstrate this skill: Get simple information about travel and use public transport. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for and give directions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Getting Around: Transport and Services."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Getting Around: Transport and Services. Ask the learner to get simple information about travel and use public transport, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Prepositional phrases of movement and place (along, across, past, through). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: A return ticket, please. When does the next train leave?",
+        "Teach this second example, then ask what the speaker is trying to communicate: Walk across the square and past the museum. Is the stop on the left?",
+        "Guided reformulation: use this model and change one relevant detail: A return ticket, please. When does the next train leave?",
+        "Guided reply: use this model in a different situation, with less help: Walk across the square and past the museum. Is the stop on the left?",
+        "Independent task. Ask about bus times, buy a return ticket, and ask the way to the shopping centre. Demonstrate this skill: Get simple information about travel and use public transport. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for and give directions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Getting Around: Transport and Services.",
+        "Transfer: create a new, explicit situation about Getting Around: Transport and Services. Ask the learner to get simple information about travel and use public transport, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_13",
+    "cefr_level": "A2",
+    "topic": "What Happened Last Weekend?",
+    "scenario_context": "AI Persona: Friend called Alan who missed a party. User Role: Friend who went to the party. Setting: Cafe, Monday morning. Action: Answer Alan's questions about where, when and who, and describe what happened.",
+    "grammar_focus": [
+      "Past simple (regular and irregular)",
+      "Wh-questions in the past (Where did she go? How did they travel?)"
+    ],
+    "vocabulary_focus": [
+      "went / saw / met",
+      "bought",
+      "gave",
+      "began",
+      "who was there",
+      "what happened",
+      "the party",
+      "last night"
+    ],
+    "functional_objectives": [
+      "Ask and answer questions about a past event",
+      "Describe what I did at the weekend"
+    ],
+    "success_criteria": "Learner answers four wh-questions in the past and asks two of their own.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask and answer questions about a past event",
+      "model": [
+        "Where did you go on Saturday? We went to the lake.",
+        "How did you get there? We didn't take the bus."
+      ],
+      "source_text": "Where did you go on Saturday? We went to the lake. How did you get there? We didn't take the bus.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Where did you go on Saturday? We went to the lake.",
+        "Guided reply: use this model in a different situation, with less help: How did you get there? We didn't take the bus."
+      ],
+      "independent_tasks": [
+        "Independent task. Answer Alan's questions about where, when and who, and describe what happened. Demonstrate this skill: Ask and answer questions about a past event. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe what I did at the weekend. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: What Happened Last Weekend?."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about What Happened Last Weekend?. Ask the learner to ask and answer questions about a past event, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Past simple (regular and irregular). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Where did you go on Saturday? We went to the lake.",
+        "Teach this second example, then ask what the speaker is trying to communicate: How did you get there? We didn't take the bus.",
+        "Guided reformulation: use this model and change one relevant detail: Where did you go on Saturday? We went to the lake.",
+        "Guided reply: use this model in a different situation, with less help: How did you get there? We didn't take the bus.",
+        "Independent task. Answer Alan's questions about where, when and who, and describe what happened. Demonstrate this skill: Ask and answer questions about a past event. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe what I did at the weekend. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: What Happened Last Weekend?.",
+        "Transfer: create a new, explicit situation about What Happened Last Weekend?. Ask the learner to ask and answer questions about a past event, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_14",
+    "cefr_level": "A2",
+    "topic": "Telling a Story",
+    "scenario_context": "AI Persona: Detective called Inspector Green. User Role: Witness to a street incident. Setting: Police station interview room. Action: Say what you were doing when it happened and the order of events.",
+    "grammar_focus": [
+      "Past continuous (I was walking when...)",
+      "Sequencing linkers (first, then, after that, finally)"
+    ],
+    "vocabulary_focus": [
+      "was raining",
+      "was walking",
+      "heard a noise",
+      "suddenly",
+      "first / then",
+      "after that",
+      "finally",
+      "while / when"
+    ],
+    "functional_objectives": [
+      "Describe what I was doing at a past moment",
+      "Tell a short story in order"
+    ],
+    "success_criteria": "Learner tells a five-step event using past simple + past continuous and at least three sequencing linkers.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe what I was doing at a past moment",
+      "model": [
+        "I was waiting for the bus when it started to snow.",
+        "First I called a friend. Then we walked home. Finally we made tea."
+      ],
+      "source_text": "I was waiting for the bus when it started to snow. First I called a friend. Then we walked home. Finally we made tea.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I was waiting for the bus when it started to snow.",
+        "Guided reply: use this model in a different situation, with less help: First I called a friend. Then we walked home. Finally we made tea."
+      ],
+      "independent_tasks": [
+        "Independent task. Say what you were doing when it happened and the order of events. Demonstrate this skill: Describe what I was doing at a past moment. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Tell a short story in order. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Telling a Story."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Telling a Story. Ask the learner to describe what i was doing at a past moment, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Past continuous (I was walking when...). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I was waiting for the bus when it started to snow.",
+        "Teach this second example, then ask what the speaker is trying to communicate: First I called a friend. Then we walked home. Finally we made tea.",
+        "Guided reformulation: use this model and change one relevant detail: I was waiting for the bus when it started to snow.",
+        "Guided reply: use this model in a different situation, with less help: First I called a friend. Then we walked home. Finally we made tea.",
+        "Independent task. Say what you were doing when it happened and the order of events. Demonstrate this skill: Describe what I was doing at a past moment. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Tell a short story in order. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Telling a Story.",
+        "Transfer: create a new, explicit situation about Telling a Story. Ask the learner to describe what i was doing at a past moment, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_15",
+    "cefr_level": "A2",
+    "topic": "My Last Holiday",
+    "scenario_context": "AI Persona: Colleague called Rosa. User Role: Coworker back from vacation. Setting: Office lunch break. Action: Tell Rosa about your last holiday - where you went, where you stayed and what you liked or didn't like.",
+    "grammar_focus": [
+      "Past simple narrative",
+      "Used to for past habits (I used to go there as a child)"
+    ],
+    "vocabulary_focus": [
+      "stayed",
+      "visited",
+      "camped",
+      "mountain hostel",
+      "walking holiday",
+      "I didn't like it",
+      "a week in...",
+      "travel and services"
+    ],
+    "functional_objectives": [
+      "Describe what I did on my last holiday",
+      "Describe past experiences and tell a story"
+    ],
+    "success_criteria": "Learner narrates a holiday in at least seven connected sentences with correct past forms.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe what I did on my last holiday",
+      "model": [
+        "We stayed near the sea and visited a small island.",
+        "I used to travel there with my grandparents, but this time I went with friends."
+      ],
+      "source_text": "We stayed near the sea and visited a small island. I used to travel there with my grandparents, but this time I went with friends.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: We stayed near the sea and visited a small island.",
+        "Guided reply: use this model in a different situation, with less help: I used to travel there with my grandparents, but this time I went with friends."
+      ],
+      "independent_tasks": [
+        "Independent task. Tell Rosa about your last holiday - where you went, where you stayed and what you liked or didn't like. Demonstrate this skill: Describe what I did on my last holiday. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe past experiences and tell a story. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: My Last Holiday."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about My Last Holiday. Ask the learner to describe what i did on my last holiday, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Past simple narrative. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: We stayed near the sea and visited a small island.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I used to travel there with my grandparents, but this time I went with friends.",
+        "Guided reformulation: use this model and change one relevant detail: We stayed near the sea and visited a small island.",
+        "Guided reply: use this model in a different situation, with less help: I used to travel there with my grandparents, but this time I went with friends.",
+        "Independent task. Tell Rosa about your last holiday - where you went, where you stayed and what you liked or didn't like. Demonstrate this skill: Describe what I did on my last holiday. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe past experiences and tell a story. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: My Last Holiday.",
+        "Transfer: create a new, explicit situation about My Last Holiday. Ask the learner to describe what i did on my last holiday, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_16",
+    "cefr_level": "A2",
+    "topic": "Have You Ever...?",
+    "scenario_context": "AI Persona: Travel-club host called Greg. User Role: New member at the club. Setting: Weekly meeting. Action: Share life experiences and news, such as places you have been and things you have lost.",
+    "grammar_focus": [
+      "Present perfect (have you ever been..., I've lost..., She hasn't...)",
+      "Yet / already / just / for / since (basic use)"
+    ],
+    "vocabulary_focus": [
+      "ever / never",
+      "been to Greece",
+      "lost my wallet",
+      "already / yet",
+      "for five years",
+      "since 2005",
+      "results",
+      "gone to Italy"
+    ],
+    "functional_objectives": [
+      "Talk about past experiences",
+      "Give news and ask about it"
+    ],
+    "success_criteria": "Learner asks two 'Have you ever...?' questions and answers with correct present perfect forms.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk about past experiences",
+      "model": [
+        "Have you ever tried skating? I've tried it twice.",
+        "I've just finished work. I haven't had dinner yet."
+      ],
+      "source_text": "Have you ever tried skating? I've tried it twice. I've just finished work. I haven't had dinner yet.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Have you ever tried skating? I've tried it twice.",
+        "Guided reply: use this model in a different situation, with less help: I've just finished work. I haven't had dinner yet."
+      ],
+      "independent_tasks": [
+        "Independent task. Share life experiences and news, such as places you have been and things you have lost. Demonstrate this skill: Talk about past experiences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give news and ask about it. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Have You Ever...?."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Have You Ever...?. Ask the learner to talk about past experiences, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Present perfect (have you ever been..., I've lost..., She hasn't...). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Have you ever tried skating? I've tried it twice.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I've just finished work. I haven't had dinner yet.",
+        "Guided reformulation: use this model and change one relevant detail: Have you ever tried skating? I've tried it twice.",
+        "Guided reply: use this model in a different situation, with less help: I've just finished work. I haven't had dinner yet.",
+        "Independent task. Share life experiences and news, such as places you have been and things you have lost. Demonstrate this skill: Talk about past experiences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give news and ask about it. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Have You Ever...?.",
+        "Transfer: create a new, explicit situation about Have You Ever...?. Ask the learner to talk about past experiences, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_17",
+    "cefr_level": "A2",
+    "topic": "Invitations and Arrangements",
+    "scenario_context": "AI Persona: Friend called Nareene. User Role: Friend arranging a night out. Setting: Text-style phone call on Wednesday. Action: Invite her out, accept or refuse politely, and fix the day, time and place.",
+    "grammar_focus": [
+      "Present continuous for future arrangements (I'm meeting John at 8)",
+      "Prepositions of time: on / in / at"
+    ],
+    "vocabulary_focus": [
+      "Would you like to come...?",
+      "Do you fancy...?",
+      "I'd love to",
+      "I'm afraid I can't",
+      "at eight o'clock",
+      "on Friday",
+      "in the evening",
+      "meet outside..."
+    ],
+    "functional_objectives": [
+      "Make and accept invitations, or refuse them politely",
+      "Make arrangements to meet"
+    ],
+    "success_criteria": "Learner makes one invitation, receives one refusal, and fixes a final plan using present continuous.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Make and accept invitations, or refuse them politely",
+      "model": [
+        "Would you like to meet on Sunday? I'm visiting my sister then.",
+        "How about Saturday? I'm meeting a friend at two, but I'm free later."
+      ],
+      "source_text": "Would you like to meet on Sunday? I'm visiting my sister then. How about Saturday? I'm meeting a friend at two, but I'm free later.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Would you like to meet on Sunday? I'm visiting my sister then.",
+        "Guided reply: use this model in a different situation, with less help: How about Saturday? I'm meeting a friend at two, but I'm free later."
+      ],
+      "independent_tasks": [
+        "Independent task. Invite her out, accept or refuse politely, and fix the day, time and place. Demonstrate this skill: Make and accept invitations, or refuse them politely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make arrangements to meet. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Invitations and Arrangements."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Invitations and Arrangements. Ask the learner to make and accept invitations, or refuse them politely, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Present continuous for future arrangements (I'm meeting John at 8). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Would you like to meet on Sunday? I'm visiting my sister then.",
+        "Teach this second example, then ask what the speaker is trying to communicate: How about Saturday? I'm meeting a friend at two, but I'm free later.",
+        "Guided reformulation: use this model and change one relevant detail: Would you like to meet on Sunday? I'm visiting my sister then.",
+        "Guided reply: use this model in a different situation, with less help: How about Saturday? I'm meeting a friend at two, but I'm free later.",
+        "Independent task. Invite her out, accept or refuse politely, and fix the day, time and place. Demonstrate this skill: Make and accept invitations, or refuse them politely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make arrangements to meet. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Invitations and Arrangements.",
+        "Transfer: create a new, explicit situation about Invitations and Arrangements. Ask the learner to make and accept invitations, or refuse them politely, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_18",
+    "cefr_level": "A2",
+    "topic": "Plans and Promises",
+    "scenario_context": "AI Persona: Teacher called Ms. Adams. User Role: Student in an end-of-term chat. Setting: Classroom after last lesson. Action: Tell her your plans for next weekend or holiday and make quick decisions and offers.",
+    "grammar_focus": [
+      "Going to (plans already decided)",
+      "Will (spontaneous decisions and offers: I'll help you)"
+    ],
+    "vocabulary_focus": [
+      "next year",
+      "going to buy",
+      "going to have an operation",
+      "I'll call you",
+      "I'll tell him",
+      "probably",
+      "plans",
+      "tonight"
+    ],
+    "functional_objectives": [
+      "Talk about my plans for the weekend or next holiday",
+      "Make quick decisions and promises"
+    ],
+    "success_criteria": "Learner distinguishes planned actions (going to) from spontaneous decisions (will) in at least four sentences.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk about my plans for the weekend or next holiday",
+      "model": [
+        "I'm going to study tonight; I've already chosen the chapter.",
+        "Your bag looks heavy. I'll help you carry it."
+      ],
+      "source_text": "I'm going to study tonight; I've already chosen the chapter. Your bag looks heavy. I'll help you carry it.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I'm going to study tonight; I've already chosen the chapter.",
+        "Guided reply: use this model in a different situation, with less help: Your bag looks heavy. I'll help you carry it."
+      ],
+      "independent_tasks": [
+        "Independent task. Tell her your plans for next weekend or holiday and make quick decisions and offers. Demonstrate this skill: Talk about my plans for the weekend or next holiday. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make quick decisions and promises. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Plans and Promises."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Plans and Promises. Ask the learner to talk about my plans for the weekend or next holiday, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Going to (plans already decided). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I'm going to study tonight; I've already chosen the chapter.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Your bag looks heavy. I'll help you carry it.",
+        "Guided reformulation: use this model and change one relevant detail: I'm going to study tonight; I've already chosen the chapter.",
+        "Guided reply: use this model in a different situation, with less help: Your bag looks heavy. I'll help you carry it.",
+        "Independent task. Tell her your plans for next weekend or holiday and make quick decisions and offers. Demonstrate this skill: Talk about my plans for the weekend or next holiday. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make quick decisions and promises. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Plans and Promises.",
+        "Transfer: create a new, explicit situation about Plans and Promises. Ask the learner to talk about my plans for the weekend or next holiday, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_19",
+    "cefr_level": "A2",
+    "topic": "Rules, Duties and Advice",
+    "scenario_context": "AI Persona: Building manager called Mr. Lopez. User Role: New tenant. Setting: Apartment reception. Action: Ask what you have to do, what you must not do, and give advice to a neighbour with a problem.",
+    "grammar_focus": [
+      "Modals: have to / must / mustn't",
+      "Modal should for advice"
+    ],
+    "vocabulary_focus": [
+      "have to fill in a form",
+      "must hurry",
+      "mustn't smoke",
+      "rules",
+      "You should ask...",
+      "You shouldn't drink...",
+      "emergency",
+      "break the glass"
+    ],
+    "functional_objectives": [
+      "Express obligation and necessity",
+      "Give advice"
+    ],
+    "success_criteria": "Learner states three rules with have to/must/mustn't and gives two pieces of advice with should/shouldn't.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Express obligation and necessity",
+      "model": [
+        "We have to arrive before nine. We mustn't block the entrance.",
+        "You should bring water, but you don't have to bring lunch."
+      ],
+      "source_text": "We have to arrive before nine. We mustn't block the entrance. You should bring water, but you don't have to bring lunch.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: We have to arrive before nine. We mustn't block the entrance.",
+        "Guided reply: use this model in a different situation, with less help: You should bring water, but you don't have to bring lunch."
+      ],
+      "independent_tasks": [
+        "Independent task. Ask what you have to do, what you must not do, and give advice to a neighbour with a problem. Demonstrate this skill: Express obligation and necessity. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give advice. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Rules, Duties and Advice."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Rules, Duties and Advice. Ask the learner to express obligation and necessity, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Modals: have to / must / mustn't. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: We have to arrive before nine. We mustn't block the entrance.",
+        "Teach this second example, then ask what the speaker is trying to communicate: You should bring water, but you don't have to bring lunch.",
+        "Guided reformulation: use this model and change one relevant detail: We have to arrive before nine. We mustn't block the entrance.",
+        "Guided reply: use this model in a different situation, with less help: You should bring water, but you don't have to bring lunch.",
+        "Independent task. Ask what you have to do, what you must not do, and give advice to a neighbour with a problem. Demonstrate this skill: Express obligation and necessity. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give advice. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Rules, Duties and Advice.",
+        "Transfer: create a new, explicit situation about Rules, Duties and Advice. Ask the learner to express obligation and necessity, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_20",
+    "cefr_level": "A2",
+    "topic": "Suggestions and Phrasal Verbs",
+    "scenario_context": "AI Persona: Roommate called Jim who can't decide what to do. User Role: Roommate making suggestions. Setting: Living room on a free afternoon. Action: Suggest activities using Let's, Shall we, Why don't we and give instructions about getting ready.",
+    "grammar_focus": [
+      "Suggestions (Let's / Shall we / Why don't we)",
+      "Common phrasal verbs (get up, put on, take off) and imperatives"
+    ],
+    "vocabulary_focus": [
+      "Why don't we phone Jim?",
+      "Let's go to the cinema",
+      "get up",
+      "put your coat on",
+      "take off",
+      "turn on / turn off",
+      "Push the bar",
+      "Somebody stop him!"
+    ],
+    "functional_objectives": [
+      "Make and respond to suggestions",
+      "Give simple instructions"
+    ],
+    "success_criteria": "Learner makes three suggestions, responds to two, and uses three phrasal verbs correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Make and respond to suggestions",
+      "model": [
+        "Let's take the bus. Why don't we meet at the stop?",
+        "Put your coat on and turn the lights off before we leave."
+      ],
+      "source_text": "Let's take the bus. Why don't we meet at the stop? Put your coat on and turn the lights off before we leave.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Let's take the bus. Why don't we meet at the stop?",
+        "Guided reply: use this model in a different situation, with less help: Put your coat on and turn the lights off before we leave."
+      ],
+      "independent_tasks": [
+        "Independent task. Suggest activities using Let's, Shall we, Why don't we and give instructions about getting ready. Demonstrate this skill: Make and respond to suggestions. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give simple instructions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Suggestions and Phrasal Verbs."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Suggestions and Phrasal Verbs. Ask the learner to make and respond to suggestions, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Suggestions (Let's / Shall we / Why don't we). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Let's take the bus. Why don't we meet at the stop?",
+        "Teach this second example, then ask what the speaker is trying to communicate: Put your coat on and turn the lights off before we leave.",
+        "Guided reformulation: use this model and change one relevant detail: Let's take the bus. Why don't we meet at the stop?",
+        "Guided reply: use this model in a different situation, with less help: Put your coat on and turn the lights off before we leave.",
+        "Independent task. Suggest activities using Let's, Shall we, Why don't we and give instructions about getting ready. Demonstrate this skill: Make and respond to suggestions. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give simple instructions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Suggestions and Phrasal Verbs.",
+        "Transfer: create a new, explicit situation about Suggestions and Phrasal Verbs. Ask the learner to make and respond to suggestions, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_21",
+    "cefr_level": "A2",
+    "topic": "If This, Then That",
+    "scenario_context": "AI Persona: Nurse called Anna at a health clinic. User Role: Patient with frequent headaches. Setting: Doctor's waiting room. Action: Explain what happens when you do certain things and what you will do if it continues.",
+    "grammar_focus": [
+      "Zero conditional (If I stay in the sun, I get a headache)",
+      "First conditional (If it rains, I'll stay in)"
+    ],
+    "vocabulary_focus": [
+      "headache",
+      "sick",
+      "feel ill",
+      "if I fail",
+      "will be angry",
+      "stay in",
+      "exam",
+      "if it rains"
+    ],
+    "functional_objectives": [
+      "Explain simple cause and result",
+      "Talk about likely future situations"
+    ],
+    "success_criteria": "Learner produces two zero and two first conditional sentences accurately in context.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Explain simple cause and result",
+      "model": [
+        "If I drink coffee late, I sleep badly.",
+        "If the weather is good tomorrow, we'll have lunch outside."
+      ],
+      "source_text": "If I drink coffee late, I sleep badly. If the weather is good tomorrow, we'll have lunch outside.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: If I drink coffee late, I sleep badly.",
+        "Guided reply: use this model in a different situation, with less help: If the weather is good tomorrow, we'll have lunch outside."
+      ],
+      "independent_tasks": [
+        "Independent task. Explain what happens when you do certain things and what you will do if it continues. Demonstrate this skill: Explain simple cause and result. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Talk about likely future situations. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: If This, Then That."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about If This, Then That. Ask the learner to explain simple cause and result, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Zero conditional (If I stay in the sun, I get a headache). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: If I drink coffee late, I sleep badly.",
+        "Teach this second example, then ask what the speaker is trying to communicate: If the weather is good tomorrow, we'll have lunch outside.",
+        "Guided reformulation: use this model and change one relevant detail: If I drink coffee late, I sleep badly.",
+        "Guided reply: use this model in a different situation, with less help: If the weather is good tomorrow, we'll have lunch outside.",
+        "Independent task. Explain what happens when you do certain things and what you will do if it continues. Demonstrate this skill: Explain simple cause and result. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Talk about likely future situations. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: If This, Then That.",
+        "Transfer: create a new, explicit situation about If This, Then That. Ask the learner to explain simple cause and result, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A2_22",
+    "cefr_level": "A2",
+    "topic": "Travel Problems: Announcements and Messages",
+    "scenario_context": "AI Persona: Airport staff member called Ms. Clarke. User Role: Delayed passenger. Setting: Airport departure hall. Action: Understand the announcement about your delayed train or flight, ask for clarification, and write a short text message to a friend explaining the delay.",
+    "grammar_focus": [
+      "Present simple for timetables (The plane lands at six)",
+      "Wh-questions and indirect questions (Can you tell me...?)"
+    ],
+    "vocabulary_focus": [
+      "departure gate",
+      "delayed",
+      "cancelled",
+      "platform",
+      "boarding pass",
+      "The train leaves at 4:30",
+      "Could you say that again?",
+      "message"
+    ],
+    "functional_objectives": [
+      "Understand short clear announcements and messages at airports and stations",
+      "Write a short message to a friend and ask for clarification"
+    ],
+    "success_criteria": "Learner extracts the key time and platform from an announcement, asks one clarifying question, and composes a two-sentence message.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand short clear announcements and messages at airports and stations",
+      "model": [
+        "The train to Milton leaves at six twenty from platform four.",
+        "Our train is delayed. Can you tell me when it leaves? I'll message my friend."
+      ],
+      "source_text": "The train to Milton leaves at six twenty from platform four. Our train is delayed. Can you tell me when it leaves? I'll message my friend.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The train to Milton leaves at six twenty from platform four.",
+        "Guided reply: use this model in a different situation, with less help: Our train is delayed. Can you tell me when it leaves? I'll message my friend."
+      ],
+      "independent_tasks": [
+        "Independent task. Understand the announcement about your delayed train or flight, ask for clarification, and write a short text message to a friend explaining the delay. Demonstrate this skill: Understand short clear announcements and messages at airports and stations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Write a short message to a friend and ask for clarification. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Travel Problems: Announcements and Messages."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Travel Problems: Announcements and Messages. Ask the learner to understand short clear announcements and messages at airports and stations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Present simple for timetables (The plane lands at six). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The train to Milton leaves at six twenty from platform four.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Our train is delayed. Can you tell me when it leaves? I'll message my friend.",
+        "Guided reformulation: use this model and change one relevant detail: The train to Milton leaves at six twenty from platform four.",
+        "Guided reply: use this model in a different situation, with less help: Our train is delayed. Can you tell me when it leaves? I'll message my friend.",
+        "Independent task. Understand the announcement about your delayed train or flight, ask for clarification, and write a short text message to a friend explaining the delay. Demonstrate this skill: Understand short clear announcements and messages at airports and stations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Write a short message to a friend and ask for clarification. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Travel Problems: Announcements and Messages.",
+        "Transfer: create a new, explicit situation about Travel Problems: Announcements and Messages. Ask the learner to understand short clear announcements and messages at airports and stations, without supplying an answer."
+      ]
+    }
+  }
+]

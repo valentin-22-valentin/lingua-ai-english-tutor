@@ -1,0 +1,1394 @@
+[
+  {
+    "lesson_id": "B1_01",
+    "cefr_level": "B1",
+    "topic": "Starting and Ending Conversations",
+    "scenario_context": "AI Persona: Paula, a stranger at a professional networking event. User Role: Attendee who knows nobody. Setting: Conference coffee break. Action: Introduce yourself, start small talk, keep it going and close the conversation politely.",
+    "grammar_focus": [
+      "Wh-questions in the past (Who did you see at the party?)",
+      "Present perfect vs past simple for background (How long have you...?)"
+    ],
+    "vocabulary_focus": [
+      "Excuse me, can I talk to you for a minute?",
+      "Let me introduce myself",
+      "Guess what!",
+      "It's been nice talking to you",
+      "Must go - see you later",
+      "Take care",
+      "small talk",
+      "get to know"
+    ],
+    "functional_objectives": [
+      "Initiate, maintain and close a simple face-to-face conversation",
+      "Ask about familiar or personal-interest topics"
+    ],
+    "success_criteria": "Learner opens a conversation, sustains it for at least four turns, and closes it with an appropriate expression.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Initiate, maintain and close a simple face-to-face conversation",
+      "model": [
+        "Have you been here before? I came last spring.",
+        "It was lovely talking to you. I hope we meet again."
+      ],
+      "source_text": "Have you been here before? I came last spring. It was lovely talking to you. I hope we meet again.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Have you been here before? I came last spring.",
+        "Guided reply: use this model in a different situation, with less help: It was lovely talking to you. I hope we meet again."
+      ],
+      "independent_tasks": [
+        "Independent task. Introduce yourself, start small talk, keep it going and close the conversation politely. Demonstrate this skill: Initiate, maintain and close a simple face-to-face conversation. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask about familiar or personal-interest topics. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Starting and Ending Conversations."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Starting and Ending Conversations. Ask the learner to initiate, maintain and close a simple face-to-face conversation, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Wh-questions in the past (Who did you see at the party?). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Have you been here before? I came last spring.",
+        "Teach this second example, then ask what the speaker is trying to communicate: It was lovely talking to you. I hope we meet again.",
+        "Guided reformulation: use this model and change one relevant detail: Have you been here before? I came last spring.",
+        "Guided reply: use this model in a different situation, with less help: It was lovely talking to you. I hope we meet again.",
+        "Independent task. Introduce yourself, start small talk, keep it going and close the conversation politely. Demonstrate this skill: Initiate, maintain and close a simple face-to-face conversation. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask about familiar or personal-interest topics. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Starting and Ending Conversations.",
+        "Transfer: create a new, explicit situation about Starting and Ending Conversations. Ask the learner to initiate, maintain and close a simple face-to-face conversation, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_02",
+    "cefr_level": "B1",
+    "topic": "Presenting My Country",
+    "scenario_context": "AI Persona: Curious exchange student called Cairo-born Youssef. User Role: Speaker giving a short presentation. Setting: International cultural evening. Action: Present your country - places, food, traditions - and answer his questions.",
+    "grammar_focus": [
+      "Comparatives and superlatives",
+      "Adverbs and adverbial phrases (extremely, quite, usually)"
+    ],
+    "vocabulary_focus": [
+      "capital city",
+      "population",
+      "located",
+      "rich history",
+      "famous for",
+      "the biggest / the oldest",
+      "tradition",
+      "tourist attraction"
+    ],
+    "functional_objectives": [
+      "Give a short prepared presentation on a familiar topic and answer clear questions",
+      "Describe places"
+    ],
+    "success_criteria": "Learner delivers a 1-2 minute presentation with at least three superlatives/comparatives and answers two follow-up questions.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give a short prepared presentation on a familiar topic and answer clear questions",
+      "model": [
+        "My region is quieter than the capital and has some of the oldest villages in the country.",
+        "The coast is especially popular in summer, although I prefer visiting in autumn."
+      ],
+      "source_text": "My region is quieter than the capital and has some of the oldest villages in the country. The coast is especially popular in summer, although I prefer visiting in autumn.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: My region is quieter than the capital and has some of the oldest villages in the country.",
+        "Guided reply: use this model in a different situation, with less help: The coast is especially popular in summer, although I prefer visiting in autumn."
+      ],
+      "independent_tasks": [
+        "Independent task. Present your country - places, food, traditions - and answer his questions. Demonstrate this skill: Give a short prepared presentation on a familiar topic and answer clear questions. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe places. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Presenting My Country."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Presenting My Country. Ask the learner to give a short prepared presentation on a familiar topic and answer clear questions, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Comparatives and superlatives. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: My region is quieter than the capital and has some of the oldest villages in the country.",
+        "Teach this second example, then ask what the speaker is trying to communicate: The coast is especially popular in summer, although I prefer visiting in autumn.",
+        "Guided reformulation: use this model and change one relevant detail: My region is quieter than the capital and has some of the oldest villages in the country.",
+        "Guided reply: use this model in a different situation, with less help: The coast is especially popular in summer, although I prefer visiting in autumn.",
+        "Independent task. Present your country - places, food, traditions - and answer his questions. Demonstrate this skill: Give a short prepared presentation on a familiar topic and answer clear questions. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe places. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Presenting My Country.",
+        "Transfer: create a new, explicit situation about Presenting My Country. Ask the learner to give a short prepared presentation on a familiar topic and answer clear questions, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_03",
+    "cefr_level": "B1",
+    "topic": "Life Experiences: Past Simple vs Present Perfect",
+    "scenario_context": "AI Persona: Interviewer called Helen for a volunteer-abroad programme. User Role: Applicant. Setting: Video interview. Action: Talk about the places you've been, what you did there and what you've achieved so far.",
+    "grammar_focus": [
+      "Present perfect vs past simple",
+      "Time expressions (already, yet, twice, in 2003, last year)"
+    ],
+    "vocabulary_focus": [
+      "I've been to...",
+      "I went there in...",
+      "so far",
+      "twice",
+      "experience",
+      "achieve",
+      "volunteer",
+      "scuba-diving"
+    ],
+    "functional_objectives": [
+      "Talk in detail about my experiences",
+      "Describe past events with personal reactions"
+    ],
+    "success_criteria": "Learner switches correctly between present perfect (experience) and past simple (specific time) in at least six sentences.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk in detail about my experiences",
+      "model": [
+        "I've visited that museum twice. I went there with my sister last year.",
+        "Have you seen the new exhibition? It opened in March."
+      ],
+      "source_text": "I've visited that museum twice. I went there with my sister last year. Have you seen the new exhibition? It opened in March.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I've visited that museum twice. I went there with my sister last year.",
+        "Guided reply: use this model in a different situation, with less help: Have you seen the new exhibition? It opened in March."
+      ],
+      "independent_tasks": [
+        "Independent task. Talk about the places you've been, what you did there and what you've achieved so far. Demonstrate this skill: Talk in detail about my experiences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe past events with personal reactions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Life Experiences: Past Simple vs Present Perfect."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Life Experiences: Past Simple vs Present Perfect. Ask the learner to talk in detail about my experiences, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Present perfect vs past simple. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I've visited that museum twice. I went there with my sister last year.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Have you seen the new exhibition? It opened in March.",
+        "Guided reformulation: use this model and change one relevant detail: I've visited that museum twice. I went there with my sister last year.",
+        "Guided reply: use this model in a different situation, with less help: Have you seen the new exhibition? It opened in March.",
+        "Independent task. Talk about the places you've been, what you did there and what you've achieved so far. Demonstrate this skill: Talk in detail about my experiences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Describe past events with personal reactions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Life Experiences: Past Simple vs Present Perfect.",
+        "Transfer: create a new, explicit situation about Life Experiences: Past Simple vs Present Perfect. Ask the learner to talk in detail about my experiences, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_04",
+    "cefr_level": "B1",
+    "topic": "How Long Have You Been...?",
+    "scenario_context": "AI Persona: Language-school director called Mr. Patel. User Role: Prospective student. Setting: Enrolment interview. Action: Explain how long you've been learning English, what you've been doing recently and why you want to progress.",
+    "grammar_focus": [
+      "Present perfect continuous (I've been studying for two years)",
+      "For / since with continuous forms"
+    ],
+    "vocabulary_focus": [
+      "for two years",
+      "since I left school",
+      "non-stop",
+      "recently",
+      "all morning",
+      "still hasn't",
+      "improve",
+      "course"
+    ],
+    "functional_objectives": [
+      "Talk about activities that started in the past and continue now",
+      "Give and ask for personal background"
+    ],
+    "success_criteria": "Learner uses present perfect continuous with for/since correctly in at least four sentences and asks two 'How long...?' questions.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk about activities that started in the past and continue now",
+      "model": [
+        "I've been learning to cook for six months.",
+        "How long have you been working here? Since September."
+      ],
+      "source_text": "I've been learning to cook for six months. How long have you been working here? Since September.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I've been learning to cook for six months.",
+        "Guided reply: use this model in a different situation, with less help: How long have you been working here? Since September."
+      ],
+      "independent_tasks": [
+        "Independent task. Explain how long you've been learning English, what you've been doing recently and why you want to progress. Demonstrate this skill: Talk about activities that started in the past and continue now. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give and ask for personal background. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: How Long Have You Been...?."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about How Long Have You Been...?. Ask the learner to talk about activities that started in the past and continue now, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Present perfect continuous (I've been studying for two years). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I've been learning to cook for six months.",
+        "Teach this second example, then ask what the speaker is trying to communicate: How long have you been working here? Since September.",
+        "Guided reformulation: use this model and change one relevant detail: I've been learning to cook for six months.",
+        "Guided reply: use this model in a different situation, with less help: How long have you been working here? Since September.",
+        "Independent task. Explain how long you've been learning English, what you've been doing recently and why you want to progress. Demonstrate this skill: Talk about activities that started in the past and continue now. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give and ask for personal background. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: How Long Have You Been...?.",
+        "Transfer: create a new, explicit situation about How Long Have You Been...?. Ask the learner to talk about activities that started in the past and continue now, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_05",
+    "cefr_level": "B1",
+    "topic": "Narrating What Was Happening",
+    "scenario_context": "AI Persona: Insurance claims officer called Ms. Reed. User Role: Driver reporting a minor accident. Setting: Phone call to insurance company. Action: Explain what happened, what you were doing when it happened, and the sequence of events.",
+    "grammar_focus": [
+      "Past continuous vs past simple (I was coming home when the car stopped)",
+      "Past tense responses (Did you? Yes, I did.)"
+    ],
+    "vocabulary_focus": [
+      "suddenly",
+      "while / when",
+      "was moving",
+      "hit each other",
+      "side street",
+      "in front of me",
+      "police",
+      "damage"
+    ],
+    "functional_objectives": [
+      "Describe events in detail",
+      "Give a clear sequence of past events"
+    ],
+    "success_criteria": "Learner narrates a five-event incident using past continuous for background and past simple for events.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe events in detail",
+      "model": [
+        "I was walking home when I noticed a lost dog.",
+        "While I was calling its owner, a neighbour brought it some water."
+      ],
+      "source_text": "I was walking home when I noticed a lost dog. While I was calling its owner, a neighbour brought it some water.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I was walking home when I noticed a lost dog.",
+        "Guided reply: use this model in a different situation, with less help: While I was calling its owner, a neighbour brought it some water."
+      ],
+      "independent_tasks": [
+        "Independent task. Explain what happened, what you were doing when it happened, and the sequence of events. Demonstrate this skill: Describe events in detail. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give a clear sequence of past events. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Narrating What Was Happening."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Narrating What Was Happening. Ask the learner to describe events in detail, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Past continuous vs past simple (I was coming home when the car stopped). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I was walking home when I noticed a lost dog.",
+        "Teach this second example, then ask what the speaker is trying to communicate: While I was calling its owner, a neighbour brought it some water.",
+        "Guided reformulation: use this model and change one relevant detail: I was walking home when I noticed a lost dog.",
+        "Guided reply: use this model in a different situation, with less help: While I was calling its owner, a neighbour brought it some water.",
+        "Independent task. Explain what happened, what you were doing when it happened, and the sequence of events. Demonstrate this skill: Describe events in detail. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give a clear sequence of past events. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Narrating What Was Happening.",
+        "Transfer: create a new, explicit situation about Narrating What Was Happening. Ask the learner to describe events in detail, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_06",
+    "cefr_level": "B1",
+    "topic": "What Had Already Happened?",
+    "scenario_context": "AI Persona: Your flatmate Joan, who is asking about a chaotic evening. User Role: Person who came home late. Setting: Kitchen at midnight. Action: Explain what had already happened before you arrived and react to her surprises.",
+    "grammar_focus": [
+      "Past perfect (Joan had already cooked supper)",
+      "Past perfect vs past simple (by the time I arrived...)"
+    ],
+    "vocabulary_focus": [
+      "had already left",
+      "by the time",
+      "just arrived",
+      "when I got home",
+      "forgot to check",
+      "had so much fun",
+      "cooked supper",
+      "asked for the bill"
+    ],
+    "functional_objectives": [
+      "Talk in detail about my experiences",
+      "Order events before other events in the past"
+    ],
+    "success_criteria": "Learner produces four accurate past perfect sentences with a clear past reference point.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk in detail about my experiences",
+      "model": [
+        "By the time we arrived, the concert had already started.",
+        "I couldn't open the door because I had left my keys at work."
+      ],
+      "source_text": "By the time we arrived, the concert had already started. I couldn't open the door because I had left my keys at work.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: By the time we arrived, the concert had already started.",
+        "Guided reply: use this model in a different situation, with less help: I couldn't open the door because I had left my keys at work."
+      ],
+      "independent_tasks": [
+        "Independent task. Explain what had already happened before you arrived and react to her surprises. Demonstrate this skill: Talk in detail about my experiences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Order events before other events in the past. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: What Had Already Happened?."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about What Had Already Happened?. Ask the learner to talk in detail about my experiences, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Past perfect (Joan had already cooked supper). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: By the time we arrived, the concert had already started.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I couldn't open the door because I had left my keys at work.",
+        "Guided reformulation: use this model and change one relevant detail: By the time we arrived, the concert had already started.",
+        "Guided reply: use this model in a different situation, with less help: I couldn't open the door because I had left my keys at work.",
+        "Independent task. Explain what had already happened before you arrived and react to her surprises. Demonstrate this skill: Talk in detail about my experiences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Order events before other events in the past. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: What Had Already Happened?.",
+        "Transfer: create a new, explicit situation about What Had Already Happened?. Ask the learner to talk in detail about my experiences, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_07",
+    "cefr_level": "B1",
+    "topic": "Feelings and Reactions",
+    "scenario_context": "AI Persona: Supportive friend called Marta. User Role: Friend who has just moved abroad. Setting: Long phone call. Action: Describe how you felt before your first day, what surprised you, and what you miss.",
+    "grammar_focus": [
+      "Adjectives with -ed / -ing for feelings",
+      "Broader intensifiers (too, enough, quite, extremely)"
+    ],
+    "vocabulary_focus": [
+      "nervous about the exam",
+      "fed up with",
+      "homesick",
+      "embarrassed",
+      "exciting / excited",
+      "I'm sorry to hear that",
+      "cope",
+      "get used to"
+    ],
+    "functional_objectives": [
+      "Describe feelings and emotions",
+      "Talk in detail about my reactions"
+    ],
+    "success_criteria": "Learner describes at least four feelings with correct -ed/-ing adjectives and two intensifiers.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe feelings and emotions",
+      "model": [
+        "I was surprised by the news; the result was surprising.",
+        "The journey was quite tiring, but I was excited to see my friends."
+      ],
+      "source_text": "I was surprised by the news; the result was surprising. The journey was quite tiring, but I was excited to see my friends.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I was surprised by the news; the result was surprising.",
+        "Guided reply: use this model in a different situation, with less help: The journey was quite tiring, but I was excited to see my friends."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe how you felt before your first day, what surprised you, and what you miss. Demonstrate this skill: Describe feelings and emotions. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Talk in detail about my reactions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Feelings and Reactions."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Feelings and Reactions. Ask the learner to describe feelings and emotions, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Adjectives with -ed / -ing for feelings. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I was surprised by the news; the result was surprising.",
+        "Teach this second example, then ask what the speaker is trying to communicate: The journey was quite tiring, but I was excited to see my friends.",
+        "Guided reformulation: use this model and change one relevant detail: I was surprised by the news; the result was surprising.",
+        "Guided reply: use this model in a different situation, with less help: The journey was quite tiring, but I was excited to see my friends.",
+        "Independent task. Describe how you felt before your first day, what surprised you, and what you miss. Demonstrate this skill: Describe feelings and emotions. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Talk in detail about my reactions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Feelings and Reactions.",
+        "Transfer: create a new, explicit situation about Feelings and Reactions. Ask the learner to describe feelings and emotions, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_08",
+    "cefr_level": "B1",
+    "topic": "Giving Opinions: Agreeing and Disagreeing",
+    "scenario_context": "AI Persona: Debate-loving friend called Dan with strong views. User Role: Friend sitting at a pub. Setting: Pub before a football match. Action: Give your opinion about football, transport and prices; agree or disagree politely.",
+    "grammar_focus": [
+      "Will and going to for prediction (I think England will win)",
+      "Question tags and short responses (So do I / Neither do I)"
+    ],
+    "vocabulary_focus": [
+      "I think...",
+      "In my opinion...",
+      "I see what you mean, but...",
+      "Exactly!",
+      "I'm sorry but I think you're wrong",
+      "Well, actually...",
+      "Well not really",
+      "So do I / Neither do I"
+    ],
+    "functional_objectives": [
+      "Give or seek personal opinions and agree or disagree politely",
+      "Briefly explain and justify my opinions"
+    ],
+    "success_criteria": "Learner gives three opinions with a reason, agrees once and disagrees politely once.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give or seek personal opinions and agree or disagree politely",
+      "model": [
+        "I think the new park will be useful because children need somewhere safe to play.",
+        "So do I, although I'm not sure the proposed location is suitable."
+      ],
+      "source_text": "I think the new park will be useful because children need somewhere safe to play. So do I, although I'm not sure the proposed location is suitable.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I think the new park will be useful because children need somewhere safe to play.",
+        "Guided reply: use this model in a different situation, with less help: So do I, although I'm not sure the proposed location is suitable."
+      ],
+      "independent_tasks": [
+        "Independent task. Give your opinion about football, transport and prices; agree or disagree politely. Demonstrate this skill: Give or seek personal opinions and agree or disagree politely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Briefly explain and justify my opinions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Giving Opinions: Agreeing and Disagreeing."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Giving Opinions: Agreeing and Disagreeing. Ask the learner to give or seek personal opinions and agree or disagree politely, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Will and going to for prediction (I think England will win). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I think the new park will be useful because children need somewhere safe to play.",
+        "Teach this second example, then ask what the speaker is trying to communicate: So do I, although I'm not sure the proposed location is suitable.",
+        "Guided reformulation: use this model and change one relevant detail: I think the new park will be useful because children need somewhere safe to play.",
+        "Guided reply: use this model in a different situation, with less help: So do I, although I'm not sure the proposed location is suitable.",
+        "Independent task. Give your opinion about football, transport and prices; agree or disagree politely. Demonstrate this skill: Give or seek personal opinions and agree or disagree politely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Briefly explain and justify my opinions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Giving Opinions: Agreeing and Disagreeing.",
+        "Transfer: create a new, explicit situation about Giving Opinions: Agreeing and Disagreeing. Ask the learner to give or seek personal opinions and agree or disagree politely, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_09",
+    "cefr_level": "B1",
+    "topic": "Talking About Films and Books",
+    "scenario_context": "AI Persona: Book-club friend called Ava. User Role: Fellow member. Setting: Bookshop cafe. Action: Recommend a film or book, summarise the plot without spoilers, and give your opinion.",
+    "grammar_focus": [
+      "Past simple for plot summary",
+      "Connecting words expressing cause/effect and contrast (because, although, however)"
+    ],
+    "vocabulary_focus": [
+      "It was set in...",
+      "It was about...",
+      "a happy ending",
+      "a page-turner",
+      "difficult to follow",
+      "brilliant",
+      "plot",
+      "I think you should read..."
+    ],
+    "functional_objectives": [
+      "Describe and recommend books and films",
+      "Give and justify opinions"
+    ],
+    "success_criteria": "Learner summarises a story in five sentences, gives an opinion, and uses at least two connectors.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe and recommend books and films",
+      "model": [
+        "In the story, a nurse found a letter and decided to look for its owner.",
+        "Although the ending was predictable, I enjoyed the characters because they felt believable."
+      ],
+      "source_text": "In the story, a nurse found a letter and decided to look for its owner. Although the ending was predictable, I enjoyed the characters because they felt believable.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: In the story, a nurse found a letter and decided to look for its owner.",
+        "Guided reply: use this model in a different situation, with less help: Although the ending was predictable, I enjoyed the characters because they felt believable."
+      ],
+      "independent_tasks": [
+        "Independent task. Recommend a film or book, summarise the plot without spoilers, and give your opinion. Demonstrate this skill: Describe and recommend books and films. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give and justify opinions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Talking About Films and Books."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Talking About Films and Books. Ask the learner to describe and recommend books and films, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Past simple for plot summary. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: In the story, a nurse found a letter and decided to look for its owner.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Although the ending was predictable, I enjoyed the characters because they felt believable.",
+        "Guided reformulation: use this model and change one relevant detail: In the story, a nurse found a letter and decided to look for its owner.",
+        "Guided reply: use this model in a different situation, with less help: Although the ending was predictable, I enjoyed the characters because they felt believable.",
+        "Independent task. Recommend a film or book, summarise the plot without spoilers, and give your opinion. Demonstrate this skill: Describe and recommend books and films. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give and justify opinions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Talking About Films and Books.",
+        "Transfer: create a new, explicit situation about Talking About Films and Books. Ask the learner to describe and recommend books and films, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_10",
+    "cefr_level": "B1",
+    "topic": "Checking and Confirming Understanding",
+    "scenario_context": "AI Persona: Project manager called Rob who gives fast instructions. User Role: New team member. Setting: Team meeting. Action: Check that you understood, ask him to clarify and confirm the tasks.",
+    "grammar_focus": [
+      "Question forms for clarification (Do you mean...? Are you saying that...?)",
+      "Complex question tags (He hasn't come yet, has he?)"
+    ],
+    "vocabulary_focus": [
+      "Is that clear?",
+      "Do you follow me?",
+      "I'm not sure I understand",
+      "Are you saying that...?",
+      "Do you mean...?",
+      "Sorry, did you say...?",
+      "clarify",
+      "confirm"
+    ],
+    "functional_objectives": [
+      "Check understanding from speaker's and listener's point of view",
+      "Ask someone to clarify or elaborate"
+    ],
+    "success_criteria": "Learner uses at least four checking phrases and correctly repeats back the instructions.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Check understanding from speaker's and listener's point of view",
+      "model": [
+        "Do you mean we should send the form today?",
+        "The office hasn't closed yet, has it? Let me check that I've understood."
+      ],
+      "source_text": "Do you mean we should send the form today? The office hasn't closed yet, has it? Let me check that I've understood.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Do you mean we should send the form today?",
+        "Guided reply: use this model in a different situation, with less help: The office hasn't closed yet, has it? Let me check that I've understood."
+      ],
+      "independent_tasks": [
+        "Independent task. Check that you understood, ask him to clarify and confirm the tasks. Demonstrate this skill: Check understanding from speaker's and listener's point of view. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask someone to clarify or elaborate. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Checking and Confirming Understanding."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Checking and Confirming Understanding. Ask the learner to check understanding from speaker's and listener's point of view, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Question forms for clarification (Do you mean...? Are you saying that...?). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Do you mean we should send the form today?",
+        "Teach this second example, then ask what the speaker is trying to communicate: The office hasn't closed yet, has it? Let me check that I've understood.",
+        "Guided reformulation: use this model and change one relevant detail: Do you mean we should send the form today?",
+        "Guided reply: use this model in a different situation, with less help: The office hasn't closed yet, has it? Let me check that I've understood.",
+        "Independent task. Check that you understood, ask him to clarify and confirm the tasks. Demonstrate this skill: Check understanding from speaker's and listener's point of view. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask someone to clarify or elaborate. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Checking and Confirming Understanding.",
+        "Transfer: create a new, explicit situation about Checking and Confirming Understanding. Ask the learner to check understanding from speaker's and listener's point of view, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_11",
+    "cefr_level": "B1",
+    "topic": "Managing Interaction: Interrupting and Changing Topic",
+    "scenario_context": "AI Persona: Talkative colleague called Gemma. User Role: Colleague in a lively discussion. Setting: Lunch table. Action: Interrupt politely, change the topic, return to a previous point and continue.",
+    "grammar_focus": [
+      "Indirect polite questions (Do you mind if I say something?)",
+      "Discourse markers for informal speech (Anyway, By the way, Okay)"
+    ],
+    "vocabulary_focus": [
+      "Sorry to interrupt, but...",
+      "Could I just say something?",
+      "Anyway,...",
+      "By the way,...",
+      "What were we talking about?",
+      "To get back to what I was saying...",
+      "So, as I was saying...",
+      "Right"
+    ],
+    "functional_objectives": [
+      "Interrupt, change topic, resume and continue in a conversation",
+      "Manage interaction politely"
+    ],
+    "success_criteria": "Learner successfully interrupts, changes topic and returns to a previous topic using appropriate markers.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Interrupt, change topic, resume and continue in a conversation",
+      "model": [
+        "Sorry to interrupt, but could I add one point?",
+        "By the way, have we discussed transport? Anyway, let's return to the booking."
+      ],
+      "source_text": "Sorry to interrupt, but could I add one point? By the way, have we discussed transport? Anyway, let's return to the booking.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Sorry to interrupt, but could I add one point?",
+        "Guided reply: use this model in a different situation, with less help: By the way, have we discussed transport? Anyway, let's return to the booking."
+      ],
+      "independent_tasks": [
+        "Independent task. Interrupt politely, change the topic, return to a previous point and continue. Demonstrate this skill: Interrupt, change topic, resume and continue in a conversation. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Manage interaction politely. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Managing Interaction: Interrupting and Changing Topic."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Managing Interaction: Interrupting and Changing Topic. Ask the learner to interrupt, change topic, resume and continue in a conversation, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Indirect polite questions (Do you mind if I say something?). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Sorry to interrupt, but could I add one point?",
+        "Teach this second example, then ask what the speaker is trying to communicate: By the way, have we discussed transport? Anyway, let's return to the booking.",
+        "Guided reformulation: use this model and change one relevant detail: Sorry to interrupt, but could I add one point?",
+        "Guided reply: use this model in a different situation, with less help: By the way, have we discussed transport? Anyway, let's return to the booking.",
+        "Independent task. Interrupt politely, change the topic, return to a previous point and continue. Demonstrate this skill: Interrupt, change topic, resume and continue in a conversation. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Manage interaction politely. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Managing Interaction: Interrupting and Changing Topic.",
+        "Transfer: create a new, explicit situation about Managing Interaction: Interrupting and Changing Topic. Ask the learner to interrupt, change topic, resume and continue in a conversation, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_12",
+    "cefr_level": "B1",
+    "topic": "Predictions and Possibilities",
+    "scenario_context": "AI Persona: Local sports journalist called Tim. User Role: Fan being interviewed. Setting: Outside the stadium. Action: Predict results and events, and say what might or may happen.",
+    "grammar_focus": [
+      "Will and going to for prediction (It's going to rain; Spurs will probably win)",
+      "Modals of possibility (might, may, probably)"
+    ],
+    "vocabulary_focus": [
+      "probably",
+      "eventually",
+      "I might be late",
+      "We may go to...",
+      "Look at those clouds",
+      "win the league",
+      "definitely",
+      "I doubt it"
+    ],
+    "functional_objectives": [
+      "Make predictions and express possibility",
+      "Give and justify opinions about the future"
+    ],
+    "success_criteria": "Learner makes four predictions, choosing will/going to/might appropriately, with reasons.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Make predictions and express possibility",
+      "model": [
+        "Those clouds are getting darker; it's going to rain.",
+        "The event might move indoors. I think they'll announce the decision this afternoon."
+      ],
+      "source_text": "Those clouds are getting darker; it's going to rain. The event might move indoors. I think they'll announce the decision this afternoon.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Those clouds are getting darker; it's going to rain.",
+        "Guided reply: use this model in a different situation, with less help: The event might move indoors. I think they'll announce the decision this afternoon."
+      ],
+      "independent_tasks": [
+        "Independent task. Predict results and events, and say what might or may happen. Demonstrate this skill: Make predictions and express possibility. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give and justify opinions about the future. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Predictions and Possibilities."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Predictions and Possibilities. Ask the learner to make predictions and express possibility, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Will and going to for prediction (It's going to rain; Spurs will probably win). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Those clouds are getting darker; it's going to rain.",
+        "Teach this second example, then ask what the speaker is trying to communicate: The event might move indoors. I think they'll announce the decision this afternoon.",
+        "Guided reformulation: use this model and change one relevant detail: Those clouds are getting darker; it's going to rain.",
+        "Guided reply: use this model in a different situation, with less help: The event might move indoors. I think they'll announce the decision this afternoon.",
+        "Independent task. Predict results and events, and say what might or may happen. Demonstrate this skill: Make predictions and express possibility. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give and justify opinions about the future. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Predictions and Possibilities.",
+        "Transfer: create a new, explicit situation about Predictions and Possibilities. Ask the learner to make predictions and express possibility, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_13",
+    "cefr_level": "B1",
+    "topic": "Future Activities in Progress",
+    "scenario_context": "AI Persona: Friend called Mohamed arranging airport pick-up. User Role: Traveller. Setting: Phone call the day before travel. Action: Explain what you will be doing at certain times tomorrow and when you'll arrive.",
+    "grammar_focus": [
+      "Future continuous (I'll be arriving at six)",
+      "Future continuous vs will"
+    ],
+    "vocabulary_focus": [
+      "This time tomorrow",
+      "arriving on the last train",
+      "working late",
+      "pick up",
+      "I'll be waiting",
+      "at that time",
+      "will be travelling",
+      "arrive"
+    ],
+    "functional_objectives": [
+      "Talk about activities at a future time",
+      "Make arrangements"
+    ],
+    "success_criteria": "Learner uses future continuous in at least four sentences with a specific future time reference.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk about activities at a future time",
+      "model": [
+        "At six tomorrow, I'll be travelling home.",
+        "Will you be using the meeting room at lunchtime?"
+      ],
+      "source_text": "At six tomorrow, I'll be travelling home. Will you be using the meeting room at lunchtime?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: At six tomorrow, I'll be travelling home.",
+        "Guided reply: use this model in a different situation, with less help: Will you be using the meeting room at lunchtime?"
+      ],
+      "independent_tasks": [
+        "Independent task. Explain what you will be doing at certain times tomorrow and when you'll arrive. Demonstrate this skill: Talk about activities at a future time. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make arrangements. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Future Activities in Progress."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Future Activities in Progress. Ask the learner to talk about activities at a future time, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Future continuous (I'll be arriving at six). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: At six tomorrow, I'll be travelling home.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Will you be using the meeting room at lunchtime?",
+        "Guided reformulation: use this model and change one relevant detail: At six tomorrow, I'll be travelling home.",
+        "Guided reply: use this model in a different situation, with less help: Will you be using the meeting room at lunchtime?",
+        "Independent task. Explain what you will be doing at certain times tomorrow and when you'll arrive. Demonstrate this skill: Talk about activities at a future time. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Make arrangements. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Future Activities in Progress.",
+        "Transfer: create a new, explicit situation about Future Activities in Progress. Ask the learner to talk about activities at a future time, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_14",
+    "cefr_level": "B1",
+    "topic": "Guessing and Deducing",
+    "scenario_context": "AI Persona: Curious neighbour called Brigitte. User Role: Neighbour who notices clues. Setting: Apartment stairwell. Action: Deduce who is visiting, why someone is late, and what has happened, using the clues.",
+    "grammar_focus": [
+      "Modals of deduction (must be, can't be)",
+      "Might / may / could for uncertainty"
+    ],
+    "vocabulary_focus": [
+      "That must be...",
+      "It can't be true",
+      "You must be tired",
+      "I don't believe it",
+      "clue",
+      "obviously",
+      "just a few minutes ago",
+      "she told me"
+    ],
+    "functional_objectives": [
+      "Speculate about present situations",
+      "Explain how I reached a conclusion"
+    ],
+    "success_criteria": "Learner produces three deductions with must/can't and one uncertain guess with might.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Speculate about present situations",
+      "model": [
+        "The lights are on, so someone must be inside.",
+        "It can't be Sara's bike; hers is red. It might belong to a visitor."
+      ],
+      "source_text": "The lights are on, so someone must be inside. It can't be Sara's bike; hers is red. It might belong to a visitor.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The lights are on, so someone must be inside.",
+        "Guided reply: use this model in a different situation, with less help: It can't be Sara's bike; hers is red. It might belong to a visitor."
+      ],
+      "independent_tasks": [
+        "Independent task. Deduce who is visiting, why someone is late, and what has happened, using the clues. Demonstrate this skill: Speculate about present situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Explain how I reached a conclusion. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Guessing and Deducing."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Guessing and Deducing. Ask the learner to speculate about present situations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Modals of deduction (must be, can't be). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The lights are on, so someone must be inside.",
+        "Teach this second example, then ask what the speaker is trying to communicate: It can't be Sara's bike; hers is red. It might belong to a visitor.",
+        "Guided reformulation: use this model and change one relevant detail: The lights are on, so someone must be inside.",
+        "Guided reply: use this model in a different situation, with less help: It can't be Sara's bike; hers is red. It might belong to a visitor.",
+        "Independent task. Deduce who is visiting, why someone is late, and what has happened, using the clues. Demonstrate this skill: Speculate about present situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Explain how I reached a conclusion. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Guessing and Deducing.",
+        "Transfer: create a new, explicit situation about Guessing and Deducing. Ask the learner to speculate about present situations, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_15",
+    "cefr_level": "B1",
+    "topic": "Regrets and Criticism in the Past",
+    "scenario_context": "AI Persona: Friend called Tom who missed a group holiday. User Role: Friend who went. Setting: Cafe after the trip. Action: Tell him what he should have done and what might have happened differently.",
+    "grammar_focus": [
+      "Should have / might have + past participle",
+      "Reported past situations"
+    ],
+    "vocabulary_focus": [
+      "You should have come with us",
+      "The letter should have come yesterday",
+      "They might have arrived already",
+      "She might have gone home",
+      "great time in Crete",
+      "regret",
+      "miss",
+      "shame"
+    ],
+    "functional_objectives": [
+      "Express regret and criticism about past events",
+      "Speculate about past possibilities"
+    ],
+    "success_criteria": "Learner uses should have and might have accurately in at least four sentences.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Express regret and criticism about past events",
+      "model": [
+        "I should have checked the address before leaving.",
+        "We might have caught the train if we had left a little earlier."
+      ],
+      "source_text": "I should have checked the address before leaving. We might have caught the train if we had left a little earlier.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I should have checked the address before leaving.",
+        "Guided reply: use this model in a different situation, with less help: We might have caught the train if we had left a little earlier."
+      ],
+      "independent_tasks": [
+        "Independent task. Tell him what he should have done and what might have happened differently. Demonstrate this skill: Express regret and criticism about past events. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Speculate about past possibilities. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Regrets and Criticism in the Past."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Regrets and Criticism in the Past. Ask the learner to express regret and criticism about past events, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Should have / might have + past participle. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I should have checked the address before leaving.",
+        "Teach this second example, then ask what the speaker is trying to communicate: We might have caught the train if we had left a little earlier.",
+        "Guided reformulation: use this model and change one relevant detail: I should have checked the address before leaving.",
+        "Guided reply: use this model in a different situation, with less help: We might have caught the train if we had left a little earlier.",
+        "Independent task. Tell him what he should have done and what might have happened differently. Demonstrate this skill: Express regret and criticism about past events. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Speculate about past possibilities. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Regrets and Criticism in the Past.",
+        "Transfer: create a new, explicit situation about Regrets and Criticism in the Past. Ask the learner to express regret and criticism about past events, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_16",
+    "cefr_level": "B1",
+    "topic": "Obligation and Necessity",
+    "scenario_context": "AI Persona: Airline check-in agent called Ms. Weber. User Role: Passenger. Setting: Airport check-in desk. Action: Ask what you must and have to do, what is not allowed and when to arrive.",
+    "grammar_focus": [
+      "Must / have to / must not",
+      "Need to / don't need to"
+    ],
+    "vocabulary_focus": [
+      "check in",
+      "departure lounge",
+      "boarding gate",
+      "at least two hours before",
+      "passengers must not",
+      "I have to meet my cousin",
+      "luggage",
+      "The gate number will be announced"
+    ],
+    "functional_objectives": [
+      "Understand and express obligation and necessity",
+      "Ask for detailed information in travel situations"
+    ],
+    "success_criteria": "Learner asks three questions about rules and correctly states obligations with must/have to/need to.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and express obligation and necessity",
+      "model": [
+        "Do we have to book in advance? We need to confirm our numbers.",
+        "You mustn't leave bags here, but you don't need to remove your shoes."
+      ],
+      "source_text": "Do we have to book in advance? We need to confirm our numbers. You mustn't leave bags here, but you don't need to remove your shoes.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Do we have to book in advance? We need to confirm our numbers.",
+        "Guided reply: use this model in a different situation, with less help: You mustn't leave bags here, but you don't need to remove your shoes."
+      ],
+      "independent_tasks": [
+        "Independent task. Ask what you must and have to do, what is not allowed and when to arrive. Demonstrate this skill: Understand and express obligation and necessity. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for detailed information in travel situations. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Obligation and Necessity."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Obligation and Necessity. Ask the learner to understand and express obligation and necessity, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Must / have to / must not. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Do we have to book in advance? We need to confirm our numbers.",
+        "Teach this second example, then ask what the speaker is trying to communicate: You mustn't leave bags here, but you don't need to remove your shoes.",
+        "Guided reformulation: use this model and change one relevant detail: Do we have to book in advance? We need to confirm our numbers.",
+        "Guided reply: use this model in a different situation, with less help: You mustn't leave bags here, but you don't need to remove your shoes.",
+        "Independent task. Ask what you must and have to do, what is not allowed and when to arrive. Demonstrate this skill: Understand and express obligation and necessity. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for detailed information in travel situations. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Obligation and Necessity.",
+        "Transfer: create a new, explicit situation about Obligation and Necessity. Ask the learner to understand and express obligation and necessity, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_17",
+    "cefr_level": "B1",
+    "topic": "Imaginary Situations: Second Conditional",
+    "scenario_context": "AI Persona: Dreamer friend called Lucy. User Role: Friend playing 'What would you do if...?'. Setting: Long train journey. Action: Talk about imaginary situations such as winning the lottery or moving abroad.",
+    "grammar_focus": [
+      "Second conditional (If I won the lottery, I'd buy...)",
+      "Would in questions (What would you do if...?)"
+    ],
+    "vocabulary_focus": [
+      "If I won the lottery",
+      "I'd buy a big house",
+      "countryside",
+      "move abroad",
+      "What would you do if...?",
+      "If I were you",
+      "dream",
+      "imagine"
+    ],
+    "functional_objectives": [
+      "Talk about hypothetical situations",
+      "Give advice using 'If I were you'"
+    ],
+    "success_criteria": "Learner produces four correct second conditional sentences and one advice sentence.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk about hypothetical situations",
+      "model": [
+        "If I had more free time, I would learn to paint.",
+        "What would you do in my position? If I were you, I'd ask for help."
+      ],
+      "source_text": "If I had more free time, I would learn to paint. What would you do in my position? If I were you, I'd ask for help.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: If I had more free time, I would learn to paint.",
+        "Guided reply: use this model in a different situation, with less help: What would you do in my position? If I were you, I'd ask for help."
+      ],
+      "independent_tasks": [
+        "Independent task. Talk about imaginary situations such as winning the lottery or moving abroad. Demonstrate this skill: Talk about hypothetical situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give advice using 'If I were you'. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Imaginary Situations: Second Conditional."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Imaginary Situations: Second Conditional. Ask the learner to talk about hypothetical situations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Second conditional (If I won the lottery, I'd buy...). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: If I had more free time, I would learn to paint.",
+        "Teach this second example, then ask what the speaker is trying to communicate: What would you do in my position? If I were you, I'd ask for help.",
+        "Guided reformulation: use this model and change one relevant detail: If I had more free time, I would learn to paint.",
+        "Guided reply: use this model in a different situation, with less help: What would you do in my position? If I were you, I'd ask for help.",
+        "Independent task. Talk about imaginary situations such as winning the lottery or moving abroad. Demonstrate this skill: Talk about hypothetical situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Give advice using 'If I were you'. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Imaginary Situations: Second Conditional.",
+        "Transfer: create a new, explicit situation about Imaginary Situations: Second Conditional. Ask the learner to talk about hypothetical situations, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_18",
+    "cefr_level": "B1",
+    "topic": "Past What-Ifs: Third Conditional",
+    "scenario_context": "AI Persona: Friend called Carla reflecting on a hard year. User Role: Listener. Setting: Late-night chat. Action: Discuss things that would have been different if events had gone another way.",
+    "grammar_focus": [
+      "Third conditional (I would have told Jim if I had seen him)",
+      "Contrast with second conditional"
+    ],
+    "vocabulary_focus": [
+      "If I had seen him",
+      "would have told",
+      "wouldn't have missed",
+      "if I'd forgotten",
+      "birthday",
+      "missed the train",
+      "lucky",
+      "different"
+    ],
+    "functional_objectives": [
+      "Talk about unreal past situations",
+      "Express relief or regret"
+    ],
+    "success_criteria": "Learner produces three accurate third conditional sentences with correct forms.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Talk about unreal past situations",
+      "model": [
+        "If we had checked the weather, we would have taken an umbrella.",
+        "Would you have joined us if we had invited you earlier?"
+      ],
+      "source_text": "If we had checked the weather, we would have taken an umbrella. Would you have joined us if we had invited you earlier?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: If we had checked the weather, we would have taken an umbrella.",
+        "Guided reply: use this model in a different situation, with less help: Would you have joined us if we had invited you earlier?"
+      ],
+      "independent_tasks": [
+        "Independent task. Discuss things that would have been different if events had gone another way. Demonstrate this skill: Talk about unreal past situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Express relief or regret. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Past What-Ifs: Third Conditional."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Past What-Ifs: Third Conditional. Ask the learner to talk about unreal past situations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Third conditional (I would have told Jim if I had seen him). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: If we had checked the weather, we would have taken an umbrella.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Would you have joined us if we had invited you earlier?",
+        "Guided reformulation: use this model and change one relevant detail: If we had checked the weather, we would have taken an umbrella.",
+        "Guided reply: use this model in a different situation, with less help: Would you have joined us if we had invited you earlier?",
+        "Independent task. Discuss things that would have been different if events had gone another way. Demonstrate this skill: Talk about unreal past situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Express relief or regret. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Past What-Ifs: Third Conditional.",
+        "Transfer: create a new, explicit situation about Past What-Ifs: Third Conditional. Ask the learner to talk about unreal past situations, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_19",
+    "cefr_level": "B1",
+    "topic": "Reporting What People Said",
+    "scenario_context": "AI Persona: Friend called Petra who wasn't at a meeting. User Role: Attendee. Setting: Office corridor. Action: Report what the boss said, asked and explained.",
+    "grammar_focus": [
+      "Reported speech (range of tenses: said, asked, told, explained)",
+      "Backshift and reported questions (He asked if she wanted...)"
+    ],
+    "vocabulary_focus": [
+      "She said (that)...",
+      "He asked if...",
+      "John told them...",
+      "explained that",
+      "was working",
+      "had lost",
+      "would come",
+      "message"
+    ],
+    "functional_objectives": [
+      "Report what someone said in detail",
+      "Pass on messages and information"
+    ],
+    "success_criteria": "Learner reports at least four statements or questions with correct tense changes.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Report what someone said in detail",
+      "model": [
+        "Mira said she was working from home that day.",
+        "She asked whether I could send the notes and told me not to wait."
+      ],
+      "source_text": "Mira said she was working from home that day. She asked whether I could send the notes and told me not to wait.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Mira said she was working from home that day.",
+        "Guided reply: use this model in a different situation, with less help: She asked whether I could send the notes and told me not to wait."
+      ],
+      "independent_tasks": [
+        "Independent task. Report what the boss said, asked and explained. Demonstrate this skill: Report what someone said in detail. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Pass on messages and information. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Reporting What People Said."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Reporting What People Said. Ask the learner to report what someone said in detail, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Reported speech (range of tenses: said, asked, told, explained). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Mira said she was working from home that day.",
+        "Teach this second example, then ask what the speaker is trying to communicate: She asked whether I could send the notes and told me not to wait.",
+        "Guided reformulation: use this model and change one relevant detail: Mira said she was working from home that day.",
+        "Guided reply: use this model in a different situation, with less help: She asked whether I could send the notes and told me not to wait.",
+        "Independent task. Report what the boss said, asked and explained. Demonstrate this skill: Report what someone said in detail. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Pass on messages and information. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Reporting What People Said.",
+        "Transfer: create a new, explicit situation about Reporting What People Said. Ask the learner to report what someone said in detail, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_20",
+    "cefr_level": "B1",
+    "topic": "News and Events: The Passive",
+    "scenario_context": "AI Persona: Radio news co-host called Nina. User Role: Local reporter. Setting: Radio studio. Action: Report on a storm and its effects using the passive.",
+    "grammar_focus": [
+      "Simple passive (The lock was broken; Rome wasn't built in a day)",
+      "Passive with by (were damaged by the storm)"
+    ],
+    "vocabulary_focus": [
+      "was damaged",
+      "were destroyed",
+      "was announced",
+      "has been found",
+      "the trees",
+      "the storm",
+      "headline",
+      "current affairs"
+    ],
+    "functional_objectives": [
+      "Understand and summarise main points of news items",
+      "Report events without naming the doer"
+    ],
+    "success_criteria": "Learner delivers a 4-6 sentence news report with at least three correct passive sentences.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and summarise main points of news items",
+      "model": [
+        "The bridge was closed after the storm.",
+        "Several houses were damaged by the wind, but nobody was injured."
+      ],
+      "source_text": "The bridge was closed after the storm. Several houses were damaged by the wind, but nobody was injured.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The bridge was closed after the storm.",
+        "Guided reply: use this model in a different situation, with less help: Several houses were damaged by the wind, but nobody was injured."
+      ],
+      "independent_tasks": [
+        "Independent task. Report on a storm and its effects using the passive. Demonstrate this skill: Understand and summarise main points of news items. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Report events without naming the doer. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: News and Events: The Passive."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about News and Events: The Passive. Ask the learner to understand and summarise main points of news items, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Simple passive (The lock was broken; Rome wasn't built in a day). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The bridge was closed after the storm.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Several houses were damaged by the wind, but nobody was injured.",
+        "Guided reformulation: use this model and change one relevant detail: The bridge was closed after the storm.",
+        "Guided reply: use this model in a different situation, with less help: Several houses were damaged by the wind, but nobody was injured.",
+        "Independent task. Report on a storm and its effects using the passive. Demonstrate this skill: Understand and summarise main points of news items. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Report events without naming the doer. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: News and Events: The Passive.",
+        "Transfer: create a new, explicit situation about News and Events: The Passive. Ask the learner to understand and summarise main points of news items, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_21",
+    "cefr_level": "B1",
+    "topic": "Formal Email or Letter: Cause, Effect and Contrast",
+    "scenario_context": "AI Persona: Customer-service manager called Ms. Hall. User Role: Customer writing about a problem. Setting: Company help-line. Action: Explain the problem aloud, then dictate a short formal email requesting a solution.",
+    "grammar_focus": [
+      "Connecting words: cause/effect and contrast (because, so, therefore, however, although)",
+      "Formal request forms (I would like to ask...)"
+    ],
+    "vocabulary_focus": [
+      "I am writing to...",
+      "refund",
+      "however",
+      "therefore",
+      "on the other hand",
+      "I would be grateful if...",
+      "faulty",
+      "reply"
+    ],
+    "functional_objectives": [
+      "Write a short formal letter asking for or giving simple information",
+      "Explain reasons and contrasts clearly"
+    ],
+    "success_criteria": "Learner produces a coherent 5-6 sentence formal message with at least three different connectors.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Write a short formal letter asking for or giving simple information",
+      "model": [
+        "I would like to ask about the evening course because I work during the day.",
+        "However, I am available on Fridays. Could you therefore suggest a suitable group?"
+      ],
+      "source_text": "I would like to ask about the evening course because I work during the day. However, I am available on Fridays. Could you therefore suggest a suitable group?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I would like to ask about the evening course because I work during the day.",
+        "Guided reply: use this model in a different situation, with less help: However, I am available on Fridays. Could you therefore suggest a suitable group?"
+      ],
+      "independent_tasks": [
+        "Independent task. Explain the problem aloud, then dictate a short formal email requesting a solution. Demonstrate this skill: Write a short formal letter asking for or giving simple information. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Explain reasons and contrasts clearly. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Formal Email or Letter: Cause, Effect and Contrast."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Formal Email or Letter: Cause, Effect and Contrast. Ask the learner to write a short formal letter asking for or giving simple information, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Connecting words: cause/effect and contrast (because, so, therefore, however, although). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I would like to ask about the evening course because I work during the day.",
+        "Teach this second example, then ask what the speaker is trying to communicate: However, I am available on Fridays. Could you therefore suggest a suitable group?",
+        "Guided reformulation: use this model and change one relevant detail: I would like to ask about the evening course because I work during the day.",
+        "Guided reply: use this model in a different situation, with less help: However, I am available on Fridays. Could you therefore suggest a suitable group?",
+        "Independent task. Explain the problem aloud, then dictate a short formal email requesting a solution. Demonstrate this skill: Write a short formal letter asking for or giving simple information. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Explain reasons and contrasts clearly. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Formal Email or Letter: Cause, Effect and Contrast.",
+        "Transfer: create a new, explicit situation about Formal Email or Letter: Cause, Effect and Contrast. Ask the learner to write a short formal letter asking for or giving simple information, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_22",
+    "cefr_level": "B1",
+    "topic": "Phrasal Verbs and Collocations",
+    "scenario_context": "AI Persona: Colleague called Sam who uses idiomatic language. User Role: Fellow team member. Setting: Office break room. Action: Chat about work, rejected offers, and made-up stories, using phrasal verbs and natural collocations.",
+    "grammar_focus": [
+      "Extended phrasal verbs (turn down, make up, switch on)",
+      "Separable vs inseparable phrasal verbs"
+    ],
+    "vocabulary_focus": [
+      "turned the jobs down",
+      "made the story up",
+      "switched the light on",
+      "take a quick shower",
+      "wide awake",
+      "a good chance",
+      "heavy snow",
+      "high quality work"
+    ],
+    "functional_objectives": [
+      "Understand and use common phrasal verbs and collocations",
+      "Interact informally with colleagues"
+    ],
+    "success_criteria": "Learner uses five phrasal verbs or collocations correctly, including at least one separable verb with a pronoun.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and use common phrasal verbs and collocations",
+      "model": [
+        "I turned the offer down, but my colleague took it up.",
+        "Please switch it on. There's a good chance the presentation will work now."
+      ],
+      "source_text": "I turned the offer down, but my colleague took it up. Please switch it on. There's a good chance the presentation will work now.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I turned the offer down, but my colleague took it up.",
+        "Guided reply: use this model in a different situation, with less help: Please switch it on. There's a good chance the presentation will work now."
+      ],
+      "independent_tasks": [
+        "Independent task. Chat about work, rejected offers, and made-up stories, using phrasal verbs and natural collocations. Demonstrate this skill: Understand and use common phrasal verbs and collocations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Interact informally with colleagues. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Phrasal Verbs and Collocations."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Phrasal Verbs and Collocations. Ask the learner to understand and use common phrasal verbs and collocations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Extended phrasal verbs (turn down, make up, switch on). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I turned the offer down, but my colleague took it up.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Please switch it on. There's a good chance the presentation will work now.",
+        "Guided reformulation: use this model and change one relevant detail: I turned the offer down, but my colleague took it up.",
+        "Guided reply: use this model in a different situation, with less help: Please switch it on. There's a good chance the presentation will work now.",
+        "Independent task. Chat about work, rejected offers, and made-up stories, using phrasal verbs and natural collocations. Demonstrate this skill: Understand and use common phrasal verbs and collocations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Interact informally with colleagues. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Phrasal Verbs and Collocations.",
+        "Transfer: create a new, explicit situation about Phrasal Verbs and Collocations. Ask the learner to understand and use common phrasal verbs and collocations, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_23",
+    "cefr_level": "B1",
+    "topic": "Colloquial Language and Everyday Talk",
+    "scenario_context": "AI Persona: Young British flatmate called Josh who speaks informally. User Role: New flatmate. Setting: Shared flat, Saturday morning. Action: Chat informally about clothes, the boss and a night out, using casual language.",
+    "grammar_focus": [
+      "Colloquial fixed expressions and intensifiers (really cool, brilliant, posh)",
+      "Past tense responses and reaction phrases"
+    ],
+    "vocabulary_focus": [
+      "cool",
+      "brilliant",
+      "posh",
+      "Oh I know",
+      "Yes, I suppose so",
+      "You know...",
+      "Really?",
+      "Well, anyway..."
+    ],
+    "functional_objectives": [
+      "Understand and use colloquial language in familiar situations",
+      "React and show interest informally"
+    ],
+    "success_criteria": "Learner responds naturally with at least four reaction phrases and three colloquial words.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and use colloquial language in familiar situations",
+      "model": [
+        "That sounds brilliant! I suppose we should book soon.",
+        "Really? I didn't know that. Well, anyway, how was your weekend?"
+      ],
+      "source_text": "That sounds brilliant! I suppose we should book soon. Really? I didn't know that. Well, anyway, how was your weekend?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: That sounds brilliant! I suppose we should book soon.",
+        "Guided reply: use this model in a different situation, with less help: Really? I didn't know that. Well, anyway, how was your weekend?"
+      ],
+      "independent_tasks": [
+        "Independent task. Chat informally about clothes, the boss and a night out, using casual language. Demonstrate this skill: Understand and use colloquial language in familiar situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: React and show interest informally. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Colloquial Language and Everyday Talk."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Colloquial Language and Everyday Talk. Ask the learner to understand and use colloquial language in familiar situations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Colloquial fixed expressions and intensifiers (really cool, brilliant, posh). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: That sounds brilliant! I suppose we should book soon.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Really? I didn't know that. Well, anyway, how was your weekend?",
+        "Guided reformulation: use this model and change one relevant detail: That sounds brilliant! I suppose we should book soon.",
+        "Guided reply: use this model in a different situation, with less help: Really? I didn't know that. Well, anyway, how was your weekend?",
+        "Independent task. Chat informally about clothes, the boss and a night out, using casual language. Demonstrate this skill: Understand and use colloquial language in familiar situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: React and show interest informally. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Colloquial Language and Everyday Talk.",
+        "Transfer: create a new, explicit situation about Colloquial Language and Everyday Talk. Ask the learner to understand and use colloquial language in familiar situations, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "B1_24",
+    "cefr_level": "B1",
+    "topic": "Detailed Directions and Services by Phone",
+    "scenario_context": "AI Persona: Hotel booking clerk called Ms. Novak. User Role: Customer arranging a stay. Setting: Phone call to a hotel. Action: Book a room, ask for detailed directions from the station and clarify departure and check-in details.",
+    "grammar_focus": [
+      "Question forms with indirect politeness (Could you tell me...?)",
+      "Adverbs of degree and time in requests"
+    ],
+    "vocabulary_focus": [
+      "book a room",
+      "debit card / credit card",
+      "check in / check out",
+      "get to the hotel",
+      "turn off at",
+      "roundabout",
+      "in the shopping mall",
+      "reception"
+    ],
+    "functional_objectives": [
+      "Have a simple telephone conversation",
+      "Ask for and follow detailed directions"
+    ],
+    "success_criteria": "Learner books a room, asks for directions, and confirms them by repeating the key steps.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Have a simple telephone conversation",
+      "model": [
+        "Could you tell me whether you have a room available for Friday?",
+        "Let me check: I leave the station, cross the square and turn right at the bank?"
+      ],
+      "source_text": "Could you tell me whether you have a room available for Friday? Let me check: I leave the station, cross the square and turn right at the bank?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Could you tell me whether you have a room available for Friday?",
+        "Guided reply: use this model in a different situation, with less help: Let me check: I leave the station, cross the square and turn right at the bank?"
+      ],
+      "independent_tasks": [
+        "Independent task. Book a room, ask for detailed directions from the station and clarify departure and check-in details. Demonstrate this skill: Have a simple telephone conversation. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for and follow detailed directions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Detailed Directions and Services by Phone."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Detailed Directions and Services by Phone. Ask the learner to have a simple telephone conversation, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Question forms with indirect politeness (Could you tell me...?). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Could you tell me whether you have a room available for Friday?",
+        "Teach this second example, then ask what the speaker is trying to communicate: Let me check: I leave the station, cross the square and turn right at the bank?",
+        "Guided reformulation: use this model and change one relevant detail: Could you tell me whether you have a room available for Friday?",
+        "Guided reply: use this model in a different situation, with less help: Let me check: I leave the station, cross the square and turn right at the bank?",
+        "Independent task. Book a room, ask for detailed directions from the station and clarify departure and check-in details. Demonstrate this skill: Have a simple telephone conversation. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Ask for and follow detailed directions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Detailed Directions and Services by Phone.",
+        "Transfer: create a new, explicit situation about Detailed Directions and Services by Phone. Ask the learner to have a simple telephone conversation, without supplying an answer."
+      ]
+    }
+  }
+]

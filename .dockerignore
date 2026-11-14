@@ -1,0 +1,8 @@
+# Only the backend and its dependencies belong in the container image.
+*
+!Dockerfile
+!requirements-server.txt
+!backend/
+!backend/**
+**/__pycache__
+**/*.pyc

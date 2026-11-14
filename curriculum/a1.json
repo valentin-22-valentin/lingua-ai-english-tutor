@@ -1,0 +1,1266 @@
+[
+  {
+    "lesson_id": "A1_01",
+    "cefr_level": "A1",
+    "topic": "Greetings and Leave-Taking",
+    "scenario_context": "AI Persona: Friendly receptionist called Mary at a language school. User Role: New student arriving for the first day. Setting: School reception desk, morning. Action: Greet Mary, ask how she is, and say goodbye politely at the end.",
+    "grammar_focus": [
+      "To be (I am / you are) in statements",
+      "Simple personal pronouns (I, you, he, she)"
+    ],
+    "vocabulary_focus": [
+      "Hello / Hi",
+      "Good morning / afternoon / evening",
+      "How are you?",
+      "I'm fine, thank you",
+      "Pleased to meet you",
+      "Goodbye / See you later",
+      "Excuse me",
+      "Sorry",
+      "Thank you"
+    ],
+    "functional_objectives": [
+      "Use basic greeting and leave-taking expressions",
+      "Ask how people are"
+    ],
+    "success_criteria": "Learner greets, asks and answers 'How are you?' and says goodbye appropriately without switching to L1.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Use basic greeting and leave-taking expressions",
+      "model": [
+        "Hello, I'm Mina. What's your name?",
+        "I'm Leo. Nice to meet you."
+      ],
+      "guided_tasks": [
+        "Complete: Good ___. Then ask how I am.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Greet a new classmate.",
+        "Ask how your classmate is.",
+        "Respond to feeling fine and end politely."
+      ],
+      "transfer_task": "Introduce yourself to a new neighbour and finish the conversation politely.",
+      "review_task": "Greet a hotel receptionist tomorrow.",
+      "source_text": "Hello, I'm Mina. What's your name? I'm Leo. Nice to meet you.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: Good ___. Then ask how I am.",
+        "Now it is evening. Greet the receptionist and ask how they are, with reduced hints.",
+        "Greet a new classmate.",
+        "Ask how your classmate is.",
+        "Respond to feeling fine and end politely.",
+        "Introduce yourself to a new neighbour and finish the conversation politely."
+      ],
+      "learner_questions": {
+        "2": "Complete the greeting: Good ___. Then ask how I am.",
+        "3": "It is evening now. Greet the receptionist and ask how they are.",
+        "4": "Greet a new classmate.",
+        "5": "Ask how your classmate is.",
+        "6": "You feel fine. Say so and end the conversation politely.",
+        "7": "Introduce yourself to a new neighbour and finish the conversation politely."
+      }
+    }
+  },
+  {
+    "lesson_id": "A1_02",
+    "cefr_level": "A1",
+    "topic": "Personal Information and Repair Strategies",
+    "scenario_context": "AI Persona: Helpful library receptionist. User Role: New member. Setting: Registration desk. Action: Introduce yourself using fictional personal details, spell a name, and practise asking for repetition. Use clear short language from the outset.",
+    "grammar_focus": [
+      "To be: questions and negatives (What's your name? I'm not...)",
+      "Question words: what, how old"
+    ],
+    "vocabulary_focus": [
+      "name / surname",
+      "How old are you?",
+      "spell",
+      "Could you repeat that, please?",
+      "Slowly, please",
+      "I don't understand",
+      "What does ... mean?",
+      "single / married"
+    ],
+    "functional_objectives": [
+      "Ask and answer simple personal questions",
+      "Say when I do not understand and ask someone to repeat"
+    ],
+    "success_criteria": "Learner introduces themselves, spells a fictional name, and independently uses a clarification or repetition request in a changed registration situation.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask and answer simple personal questions",
+      "model": [
+        "My name is Nora. N-O-R-A.",
+        "Sorry, could you repeat that, please?"
+      ],
+      "guided_tasks": [
+        "Complete: Could you ___ that, please?",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Give a fictional first name and spell it.",
+        "Ask me to repeat my surname.",
+        "Ask what an unfamiliar word means."
+      ],
+      "transfer_task": "At a library, spell a fictional surname and ask the librarian to repeat a detail.",
+      "review_task": "Spell a different name at a hotel.",
+      "source_text": "My name is Nora. N-O-R-A. Sorry, could you repeat that, please?",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: Could you ___ that, please?",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Give a fictional first name and spell it.",
+        "Ask me to repeat my surname.",
+        "Ask what an unfamiliar word means.",
+        "At a library, spell a fictional surname and ask the librarian to repeat a detail."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_03",
+    "cefr_level": "A1",
+    "topic": "Nationalities and Countries",
+    "scenario_context": "AI Persona: Pedro, a Spanish student at an international party. User Role: Another guest meeting new people. Setting: Welcome party at a language school. Action: Ask Pedro where he is from and tell him your country and nationality.",
+    "grammar_focus": [
+      "To be: Are you...? Is she...? Yes, I am / No, I'm not",
+      "Pronouns: he, she, we, they"
+    ],
+    "vocabulary_focus": [
+      "Spain / Spanish",
+      "France / French",
+      "China / Chinese",
+      "Egypt / Egyptian",
+      "Italy / Italian",
+      "South America",
+      "the north of...",
+      "from"
+    ],
+    "functional_objectives": [
+      "Give nationality and country of origin",
+      "Ask and answer simple personal questions"
+    ],
+    "success_criteria": "Learner asks 'Where are you from?', answers with country and nationality, and uses short answers (Yes, I am / No, I'm not).",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give nationality and country of origin",
+      "model": [
+        "I'm from Romania. I'm Romanian.",
+        "Is Luca Italian? Yes, he is."
+      ],
+      "guided_tasks": [
+        "Complete: I am from ___. I am ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Give a fictional country and nationality.",
+        "Ask where your new colleague is from.",
+        "Introduce a fictional friend and their nationality."
+      ],
+      "transfer_task": "Meet someone from a different country; ask where they are from and introduce a friend.",
+      "review_task": "Ask a new neighbour about their country.",
+      "source_text": "I'm from Romania. I'm Romanian. Is Luca Italian? Yes, he is.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: I am from ___. I am ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Give a fictional country and nationality.",
+        "Ask where your new colleague is from.",
+        "Introduce a fictional friend and their nationality.",
+        "Meet someone from a different country; ask where they are from and introduce a friend."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_04",
+    "cefr_level": "A1",
+    "topic": "Numbers, Days, Months and Dates",
+    "scenario_context": "AI Persona: Anna, a gym receptionist. User Role: Person joining the gym. Setting: Gym front desk. Action: Give your phone number, your date of birth, and choose the days you want to come.",
+    "grammar_focus": [
+      "Questions: What's your phone number? When is your birthday?",
+      "Prepositions of time: on (Monday), in (May), at (7 o'clock)"
+    ],
+    "vocabulary_focus": [
+      "numbers 0-100",
+      "phone number",
+      "Monday to Sunday",
+      "January to December",
+      "date of birth",
+      "today / tomorrow",
+      "birthday",
+      "the first / second / third"
+    ],
+    "functional_objectives": [
+      "Understand and use numbers, days, months and dates",
+      "Give personal information (telephone number, date of birth)"
+    ],
+    "success_criteria": "Learner says a phone number digit by digit, states their date of birth, and names days and months correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and use numbers, days, months and dates",
+      "model": [
+        "My number is zero seven two, four one six.",
+        "My birthday is on the fifth of June."
+      ],
+      "guided_tasks": [
+        "Complete: My birthday is on the ___ of ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Say a fictional phone number.",
+        "Give a fictional birthday with day and month.",
+        "Ask me for a contact number and confirm it."
+      ],
+      "transfer_task": "Arrange an appointment: choose a day and a month, then confirm a fictional contact number.",
+      "review_task": "Arrange another appointment with a different date.",
+      "source_text": "My number is zero seven two, four one six. My birthday is on the fifth of June.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: My birthday is on the ___ of ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Say a fictional phone number.",
+        "Give a fictional birthday with day and month.",
+        "Ask me for a contact number and confirm it.",
+        "Arrange an appointment: choose a day and a month, then confirm a fictional contact number."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_05",
+    "cefr_level": "A1",
+    "topic": "My Family",
+    "scenario_context": "AI Persona: Emma, a new friend at a language exchange cafe. User Role: Friend talking about a fictional family. Setting: Cafe table. Action: Tell Emma about family members, their names and ages.",
+    "grammar_focus": [
+      "Possessive adjectives (my, your, his, her, our, their)",
+      "Possessive 's (Mary's brother) and have got"
+    ],
+    "vocabulary_focus": [
+      "mother / father",
+      "sister / brother",
+      "husband / wife",
+      "son / daughter",
+      "grandmother / grandfather",
+      "parents",
+      "children",
+      "cat / dog"
+    ],
+    "functional_objectives": [
+      "Give personal information about family",
+      "Very simply describe my family"
+    ],
+    "success_criteria": "Learner names at least four family members using possessive adjectives and 's, and says how many brothers, sisters or pets they have.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give personal information about family",
+      "model": [
+        "This is my sister. Her name is Eva.",
+        "My brother's dog is small. I've got one brother."
+      ],
+      "guided_tasks": [
+        "Complete: This is my ___. Her name is ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Introduce two fictional family members.",
+        "Explain who owns a fictional dog.",
+        "Ask about my family."
+      ],
+      "transfer_task": "Introduce a different fictional family and explain two relationships without a model.",
+      "review_task": "Explain a new fictional family relationship.",
+      "source_text": "This is my sister. Her name is Eva. My brother's dog is small. I've got one brother.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: This is my ___. Her name is ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Introduce two fictional family members.",
+        "Explain who owns a fictional dog.",
+        "Ask about my family.",
+        "Introduce a different fictional family and explain two relationships without a model."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_06",
+    "cefr_level": "A1",
+    "topic": "Describing People",
+    "scenario_context": "AI Persona: Police-station helper called Officer Lee. User Role: Person who lost a friend in a crowded shopping centre. Setting: Information desk. Action: Describe your friend's appearance and clothes so Officer Lee can find them.",
+    "grammar_focus": [
+      "Adjectives: common (tall, short, young, old)",
+      "Intensifiers, very basic (very, really)"
+    ],
+    "vocabulary_focus": [
+      "tall / short",
+      "young / old",
+      "long / short hair",
+      "blonde / dark hair",
+      "very / really",
+      "wearing",
+      "red skirt",
+      "black jacket"
+    ],
+    "functional_objectives": [
+      "Very simply describe myself and other people",
+      "Ask and answer simple questions"
+    ],
+    "success_criteria": "Learner describes a person with at least three adjectives, uses 'very' or 'really', and says what the person is wearing.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Very simply describe myself and other people",
+      "model": [
+        "My friend is tall and has brown hair.",
+        "She is wearing a blue coat. She is really friendly."
+      ],
+      "guided_tasks": [
+        "Complete: My friend has ___ hair.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe a fictional person's appearance.",
+        "Describe their clothes.",
+        "Ask about another person's personality."
+      ],
+      "transfer_task": "Describe a different fictional person so a receptionist can identify them. No unseen photo claims.",
+      "review_task": "Describe another fictional visitor for identification.",
+      "source_text": "My friend is tall and has brown hair. She is wearing a blue coat. She is really friendly.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: My friend has ___ hair.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe a fictional person's appearance.",
+        "Describe their clothes.",
+        "Ask about another person's personality.",
+        "Describe a different fictional person so a receptionist can identify them. No unseen photo claims."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_07",
+    "cefr_level": "A1",
+    "topic": "Where I Live",
+    "scenario_context": "AI Persona: Tom, a pen-pal on a video call. User Role: Person describing their home and neighbourhood. Setting: Video call between two countries. Action: Tell Tom about your flat or house and what is near it.",
+    "grammar_focus": [
+      "There is / there are (and questions)",
+      "Prepositions of place (in, on, near, next to, behind)"
+    ],
+    "vocabulary_focus": [
+      "flat / house",
+      "kitchen / bedroom / bathroom",
+      "bank",
+      "supermarket",
+      "station",
+      "near",
+      "next to",
+      "in the town centre"
+    ],
+    "functional_objectives": [
+      "Very simply describe where I live",
+      "Ask and answer simple questions about home"
+    ],
+    "success_criteria": "Learner produces at least four sentences with 'there is/are' and correct prepositions of place about their home or town.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Very simply describe where I live",
+      "model": [
+        "There is a shop next to my home.",
+        "There are two chairs in the kitchen."
+      ],
+      "guided_tasks": [
+        "Complete: There are two ___ in the ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe two rooms of an imaginary home.",
+        "Say where three objects are.",
+        "Ask what is in my kitchen."
+      ],
+      "transfer_task": "Describe a fictional holiday apartment, including where three things are.",
+      "review_task": "Describe a different holiday apartment.",
+      "source_text": "There is a shop next to my home. There are two chairs in the kitchen.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: There are two ___ in the ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe two rooms of an imaginary home.",
+        "Say where three objects are.",
+        "Ask what is in my kitchen.",
+        "Describe a fictional holiday apartment, including where three things are."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_08",
+    "cefr_level": "A1",
+    "topic": "Asking for and Giving Directions",
+    "scenario_context": "AI Persona: Helpful local called Mr. Jones. User Role: Tourist looking for the station. Setting: Street corner in a small English town. Action: Ask where places are and follow directions given by Mr. Jones.",
+    "grammar_focus": [
+      "Imperatives (+/-): Turn left, Don't go...",
+      "Prepositions of place and common prepositions (at, to, from)"
+    ],
+    "vocabulary_focus": [
+      "turn left / right",
+      "go straight ahead",
+      "at the end of the street",
+      "on the left / right",
+      "opposite",
+      "station",
+      "car park",
+      "town centre"
+    ],
+    "functional_objectives": [
+      "Ask for and understand simple directions",
+      "Understand words and phrases on everyday signs (station, car park, keep left)"
+    ],
+    "success_criteria": "Learner asks 'Where is...?', follows a three-step direction, and repeats it back correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask for and understand simple directions",
+      "model": [
+        "Go straight on, then turn left.",
+        "The library is next to the bank."
+      ],
+      "guided_tasks": [
+        "A visitor starts at a junction. The museum is straight ahead then left. Complete: Go straight ahead, then turn ___ to reach the museum.",
+        "The cafe is straight ahead then right. Complete the route: go straight ahead, then turn ___."
+      ],
+      "independent_tasks": [
+        "A visitor starts at a junction. The museum is straight ahead then left. Give the visitor that route in English.",
+        "The cafe is straight ahead then right from the junction. Give a visitor that route in English.",
+        "Ask me politely how to get to the museum."
+      ],
+      "transfer_task": "New situation: the library is straight ahead then right. Give a visitor that route without a model answer.",
+      "review_task": "Guide a visitor using a different explicit street layout.",
+      "source_text": "Go straight on, then turn left. The library is next to the bank.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "A visitor starts at a junction. The museum is straight ahead then left. Complete: Go straight ahead, then turn ___ to reach the museum.",
+        "The cafe is straight ahead then right. Complete the route: go straight ahead, then turn ___.",
+        "A visitor starts at a junction. The museum is straight ahead then left. Give the visitor that route in English.",
+        "The cafe is straight ahead then right from the junction. Give a visitor that route in English.",
+        "Ask me politely how to get to the museum.",
+        "New situation: the library is straight ahead then right. Give a visitor that route without a model answer."
+      ],
+      "learner_questions": {
+        "2": "The museum is straight ahead, then left. Complete: go straight ahead, then turn ___.",
+        "3": "The cafe is straight ahead, then right. Complete: go straight ahead, then turn ___.",
+        "4": "The museum is straight ahead, then left from the junction. Give a visitor the complete route.",
+        "5": "The cafe is straight ahead, then right from the junction. Give a visitor the complete route.",
+        "6": "Ask me politely how to get to the museum.",
+        "7": "New situation: the library is straight ahead, then right. Give a visitor that route."
+      }
+    }
+  },
+  {
+    "lesson_id": "A1_09",
+    "cefr_level": "A1",
+    "topic": "Telling the Time",
+    "scenario_context": "AI Persona: Station clerk called Ravi. User Role: Traveller planning a train trip. Setting: Railway ticket office. Action: Ask what time the train leaves and understand the times Ravi gives.",
+    "grammar_focus": [
+      "Questions: What time is it? / What time does the train leave?",
+      "Prepositions of time including in/on/at (at 3 o'clock, on Tuesday, in the morning)"
+    ],
+    "vocabulary_focus": [
+      "o'clock",
+      "half past",
+      "quarter past / quarter to",
+      "in the morning / afternoon / evening",
+      "at night",
+      "train / bus",
+      "leave / arrive",
+      "Do you have the time, please?"
+    ],
+    "functional_objectives": [
+      "Understand and tell times",
+      "Understand times and dates when listening"
+    ],
+    "success_criteria": "Learner tells and understands at least five different clock times and uses at/on/in correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and tell times",
+      "model": [
+        "The train leaves at half past six.",
+        "We meet on Friday at seven in the evening."
+      ],
+      "guided_tasks": [
+        "Complete: We meet on ___ at ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Suggest a day and time for a meeting.",
+        "Ask when my train leaves.",
+        "Confirm a different meeting time in your own words."
+      ],
+      "transfer_task": "Agree on a new meeting time, then confirm the day and time in your own words.",
+      "review_task": "Arrange an appointment next week.",
+      "source_text": "The train leaves at half past six. We meet on Friday at seven in the evening.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: We meet on ___ at ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Suggest a day and time for a meeting.",
+        "Ask when my train leaves.",
+        "Confirm a different meeting time in your own words.",
+        "Agree on a new meeting time, then confirm the day and time in your own words."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_10",
+    "cefr_level": "A1",
+    "topic": "Daily Routine",
+    "scenario_context": "AI Persona: Sam, a curious classmate. User Role: Classmate explaining an ordinary day. Setting: School canteen at lunch. Action: Describe what you do every day and how often.",
+    "grammar_focus": [
+      "Present simple (I/you/we/they and he/she/it + -s)",
+      "Adverbs of frequency (always, usually, sometimes, never)"
+    ],
+    "vocabulary_focus": [
+      "get up",
+      "have breakfast",
+      "get the bus",
+      "go to work / college",
+      "go to bed",
+      "every day",
+      "always / usually",
+      "sometimes / never"
+    ],
+    "functional_objectives": [
+      "Describe habits and routines",
+      "Very simply describe myself"
+    ],
+    "success_criteria": "Learner describes a routine in at least five sentences with correct present simple -s and two frequency adverbs.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe habits and routines",
+      "model": [
+        "I usually walk to work. I start at nine.",
+        "My friend works at home. She never drives."
+      ],
+      "guided_tasks": [
+        "Complete: She usually ___ at nine.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe your fictional morning routine.",
+        "Describe a friend's routine.",
+        "Ask how often I do a familiar activity."
+      ],
+      "transfer_task": "Describe a different person's routine and compare it briefly with your own.",
+      "review_task": "Compare a new person's routine with yours.",
+      "source_text": "I usually walk to work. I start at nine. My friend works at home. She never drives.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: She usually ___ at nine.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe your fictional morning routine.",
+        "Describe a friend's routine.",
+        "Ask how often I do a familiar activity.",
+        "Describe a different person's routine and compare it briefly with your own."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_11",
+    "cefr_level": "A1",
+    "topic": "Jobs and Work",
+    "scenario_context": "AI Persona: Lisa, a sociable stranger on a train. User Role: Commuter chatting on a journey. Setting: Morning commuter train. Action: Ask and answer questions about jobs and workplaces.",
+    "grammar_focus": [
+      "Present simple questions and negatives (Do you...? He doesn't...)",
+      "Question words: what, where, when"
+    ],
+    "vocabulary_focus": [
+      "engineer",
+      "student",
+      "doctor",
+      "teacher",
+      "work in a bank / a factory",
+      "I'm a...",
+      "start / finish work",
+      "office"
+    ],
+    "functional_objectives": [
+      "Ask and answer questions about what I do",
+      "Give personal information about work"
+    ],
+    "success_criteria": "Learner says what they or another person do, asks two questions about the AI's job, and uses one negative sentence correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask and answer questions about what I do",
+      "model": [
+        "I work in a shop. I don't work on Sundays.",
+        "Where does your friend work? Does he like his job?"
+      ],
+      "guided_tasks": [
+        "Complete: She works in a ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe a fictional job and workplace.",
+        "Say when you do not work.",
+        "Ask where my friend works."
+      ],
+      "transfer_task": "Meet a new colleague; find out about their job and explain a fictional job of your own.",
+      "review_task": "Meet another colleague and discuss working hours.",
+      "source_text": "I work in a shop. I don't work on Sundays. Where does your friend work? Does he like his job?",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: She works in a ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe a fictional job and workplace.",
+        "Say when you do not work.",
+        "Ask where my friend works.",
+        "Meet a new colleague; find out about their job and explain a fictional job of your own."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_12",
+    "cefr_level": "A1",
+    "topic": "Hobbies and Leisure Activities",
+    "scenario_context": "AI Persona: Jack, a new neighbour who loves sport and music. User Role: Neighbour at a barbecue. Setting: Garden party. Action: Find out what you both like doing in your free time.",
+    "grammar_focus": [
+      "Verb + -ing (like/hate/love + swimming)",
+      "Do you like...? / I don't like..."
+    ],
+    "vocabulary_focus": [
+      "swimming",
+      "dancing",
+      "playing football",
+      "watching TV",
+      "reading",
+      "cooking",
+      "listening to music",
+      "at the weekend"
+    ],
+    "functional_objectives": [
+      "Give personal information about hobbies",
+      "Ask and answer questions about likes and dislikes"
+    ],
+    "success_criteria": "Learner states three likes or dislikes with -ing forms and asks the AI two questions about hobbies.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give personal information about hobbies",
+      "model": [
+        "I like cooking, but I don't like running.",
+        "Do you like swimming? I love reading."
+      ],
+      "guided_tasks": [
+        "Complete: I like ___, but I do not like ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe two likes and one dislike.",
+        "Ask about my hobbies.",
+        "Suggest an activity that matches both our preferences."
+      ],
+      "transfer_task": "Choose a weekend activity with a new friend, taking both people's preferences into account.",
+      "review_task": "Choose a different activity with a new friend.",
+      "source_text": "I like cooking, but I don't like running. Do you like swimming? I love reading.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: I like ___, but I do not like ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe two likes and one dislike.",
+        "Ask about my hobbies.",
+        "Suggest an activity that matches both our preferences.",
+        "Choose a weekend activity with a new friend, taking both people's preferences into account."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_13",
+    "cefr_level": "A1",
+    "topic": "Ordering Food and Drink",
+    "scenario_context": "AI Persona: Waiter called Marco in a busy cafe. User Role: Customer ordering breakfast for two. Setting: Cafe near the station. Action: Order food and drinks and ask the price.",
+    "grammar_focus": [
+      "I'd like (a cup of coffee)",
+      "Countable and uncountable nouns with some/any (I'd like some bread)"
+    ],
+    "vocabulary_focus": [
+      "coffee / tea",
+      "orange juice",
+      "water",
+      "bread / eggs",
+      "fruit / vegetables",
+      "fish / chicken",
+      "the bill",
+      "breakfast / lunch / dinner"
+    ],
+    "functional_objectives": [
+      "Order food and drink politely",
+      "Use basic requests in everyday situations"
+    ],
+    "success_criteria": "Learner orders at least three items using 'I'd like', and asks for the bill.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Order food and drink politely",
+      "model": [
+        "I'd like some soup and a glass of water, please.",
+        "Could I have the bill, please?"
+      ],
+      "guided_tasks": [
+        "Menu: coffee 3, tea 2, water 1, soup 4, salad 5, juice 3 euros. Complete: I would like ___, please.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Order a drink from that menu.",
+        "Order food politely.",
+        "Ask for the bill."
+      ],
+      "transfer_task": "At a new cafe with this menu, salad costs 5 euros and juice costs 3 euros. Order both politely and ask for the bill without a sentence frame.",
+      "review_task": "New menu: salad 5 euros, juice 3 euros; order both and ask to pay.",
+      "source_text": "I'd like some soup and a glass of water, please. Could I have the bill, please?",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Menu: coffee 3, tea 2, water 1, soup 4, salad 5, juice 3 euros. Complete: I would like ___, please.",
+        "Now order coffee from the same menu politely, with reduced hints.",
+        "Order a drink from that menu.",
+        "Order food politely.",
+        "Ask for the bill.",
+        "At a new cafe with this menu, salad costs 5 euros and juice costs 3 euros. Order both politely and ask for the bill without a sentence frame."
+      ],
+      "learner_questions": {
+        "2": "Complete an order using the menu: I would like ___, please.",
+        "3": "Now order coffee politely.",
+        "4": "Order a drink from the menu politely.",
+        "5": "Order food from the menu politely.",
+        "6": "Ask for the bill politely.",
+        "7": "At a new cafe, salad costs 5 euros and juice costs 3 euros. Order both politely and ask for the bill."
+      }
+    }
+  },
+  {
+    "lesson_id": "A1_14",
+    "cefr_level": "A1",
+    "topic": "Shopping and Prices",
+    "scenario_context": "AI Persona: Shop assistant called Nina at a small market stall. User Role: Customer buying fruit and a gift. Setting: Outdoor market. Action: Ask how much things cost and how many or how much you need.",
+    "grammar_focus": [
+      "How much / how many with very common uncountable nouns",
+      "Demonstratives (this, that, these, those)"
+    ],
+    "vocabulary_focus": [
+      "How much is this?",
+      "pounds / euros / dollars",
+      "pence / cents",
+      "a kilo of apples",
+      "expensive / cheap",
+      "bag",
+      "change",
+      "shop / market"
+    ],
+    "functional_objectives": [
+      "Understand and use prices",
+      "Ask and answer questions in shops"
+    ],
+    "success_criteria": "Learner asks the price of three items with this/that/these/those and understands the total cost.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and use prices",
+      "model": [
+        "How much is this bag? It's twelve euros.",
+        "How many apples would you like? Three, please."
+      ],
+      "guided_tasks": [
+        "Apples cost 2 euros each; complete: How much ___?",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Ask the price of a fictional bag.",
+        "Request three apples.",
+        "For three apples at 2 euros each, confirm the total in English."
+      ],
+      "transfer_task": "Buy different quantities at a different shop, ask prices and confirm the total.",
+      "review_task": "Buy two oranges at 1 euro each and confirm the price.",
+      "source_text": "How much is this bag? It's twelve euros. How many apples would you like? Three, please.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Apples cost 2 euros each; complete: How much ___?",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Ask the price of a fictional bag.",
+        "Request three apples.",
+        "For three apples at 2 euros each, confirm the total in English.",
+        "Buy different quantities at a different shop, ask prices and confirm the total."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_15",
+    "cefr_level": "A1",
+    "topic": "Comparing Things",
+    "scenario_context": "AI Persona: Sales assistant called Paul in a phone shop. User Role: Customer choosing between two phones. Setting: Electronics store. Action: Compare price, size and quality and choose the best one.",
+    "grammar_focus": [
+      "Comparatives (cheaper than, bigger than)",
+      "Superlatives (the cheapest, the best)"
+    ],
+    "vocabulary_focus": [
+      "cheap / cheaper / the cheapest",
+      "big / bigger",
+      "good / better / the best",
+      "expensive",
+      "new / old",
+      "laptop",
+      "phone",
+      "I prefer..."
+    ],
+    "functional_objectives": [
+      "Compare two things simply",
+      "Ask and answer questions in shops"
+    ],
+    "success_criteria": "Learner makes at least three correct comparatives and one superlative to justify their choice.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Compare two things simply",
+      "model": [
+        "This bag is cheaper than that one.",
+        "The green bag is the smallest. It's the best for me."
+      ],
+      "guided_tasks": [
+        "Red bag 10 euros, blue bag 20; complete: Red is ___ than blue.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Compare the prices of those bags.",
+        "Compare a small green and large yellow bag.",
+        "Choose a bag and give a simple reason."
+      ],
+      "transfer_task": "Choose between two fictional bicycles using explicit prices and sizes supplied by the teacher.",
+      "review_task": "Choose between a small 80-euro and large 120-euro bicycle.",
+      "source_text": "This bag is cheaper than that one. The green bag is the smallest. It's the best for me.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Red bag 10 euros, blue bag 20; complete: Red is ___ than blue.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Compare the prices of those bags.",
+        "Compare a small green and large yellow bag.",
+        "Choose a bag and give a simple reason.",
+        "Choose between two fictional bicycles using explicit prices and sizes supplied by the teacher."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_16",
+    "cefr_level": "A1",
+    "topic": "Ability and Polite Requests",
+    "scenario_context": "AI Persona: Friendly host called Helen. User Role: Guest visiting her flat. Setting: Living room at a dinner invitation. Action: Ask to use the phone or open the window, and talk about what you can and cannot do.",
+    "grammar_focus": [
+      "Modals can/can't (ability)",
+      "Can/could for permission and requests (Could I use your phone?)"
+    ],
+    "vocabulary_focus": [
+      "speak Spanish / French / Italian",
+      "play chess",
+      "swim",
+      "Can I help?",
+      "Could I...?",
+      "use your phone",
+      "open the window",
+      "of course"
+    ],
+    "functional_objectives": [
+      "Say what I can and can't do",
+      "Make simple requests and ask for permission"
+    ],
+    "success_criteria": "Learner states two abilities with can/can't and makes two polite requests with can/could.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Say what I can and can't do",
+      "model": [
+        "I can cook, but I can't swim.",
+        "Could I use this chair, please?"
+      ],
+      "guided_tasks": [
+        "Complete: I can ___, but I cannot ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Explain two fictional abilities.",
+        "Ask whether I can swim.",
+        "Ask permission to use a chair politely."
+      ],
+      "transfer_task": "At a community centre, explain one ability and ask politely for a different item.",
+      "review_task": "At a new centre, ask to borrow a different item.",
+      "source_text": "I can cook, but I can't swim. Could I use this chair, please?",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: I can ___, but I cannot ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Explain two fictional abilities.",
+        "Ask whether I can swim.",
+        "Ask permission to use a chair politely.",
+        "At a community centre, explain one ability and ask politely for a different item."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_17",
+    "cefr_level": "A1",
+    "topic": "What Are You Doing Now?",
+    "scenario_context": "AI Persona: Your friend Alex on a phone call. User Role: Friend describing what is happening around you. Setting: Phone call on a rainy Saturday. Action: Say where you are, what you are doing, and what others are doing.",
+    "grammar_focus": [
+      "Present continuous (I'm studying, she's wearing)",
+      "Present simple vs present continuous (basic contrast)"
+    ],
+    "vocabulary_focus": [
+      "raining",
+      "wearing",
+      "studying",
+      "watching TV",
+      "cooking dinner",
+      "at the moment",
+      "now",
+      "verbs - basic (eat, drink, read, write)"
+    ],
+    "functional_objectives": [
+      "Describe what is happening now",
+      "Interact in a simple way"
+    ],
+    "success_criteria": "Learner produces at least four present continuous sentences and one question (What are you doing?).",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Describe what is happening now",
+      "model": [
+        "I'm reading now. My friend is making tea.",
+        "I usually work on Mondays, but today I'm resting."
+      ],
+      "guided_tasks": [
+        "Complete: She is ___ tea now.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Fictional scene: a person cooking; describe the action.",
+        "Explain what you usually do on Mondays.",
+        "Contrast today's fictional activity with your routine."
+      ],
+      "transfer_task": "Describe what is happening in a new fictional scene and distinguish it from a routine.",
+      "review_task": "New scene: two people walking; contrast it with their usual driving.",
+      "source_text": "I'm reading now. My friend is making tea. I usually work on Mondays, but today I'm resting.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: She is ___ tea now.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Fictional scene: a person cooking; describe the action.",
+        "Explain what you usually do on Mondays.",
+        "Contrast today's fictional activity with your routine.",
+        "Describe what is happening in a new fictional scene and distinguish it from a routine."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_18",
+    "cefr_level": "A1",
+    "topic": "Yesterday and Last Weekend",
+    "scenario_context": "AI Persona: Curious colleague called Jenny. User Role: Colleague on Monday morning. Setting: Office kitchen. Action: Say where you were on Sunday and what you did.",
+    "grammar_focus": [
+      "Past simple of 'to be' (was/were)",
+      "Past simple regular verbs (played, watched, visited)"
+    ],
+    "vocabulary_focus": [
+      "yesterday",
+      "last weekend / last week",
+      "ago",
+      "was / were",
+      "visited",
+      "watched",
+      "played",
+      "It was very good"
+    ],
+    "functional_objectives": [
+      "Ask and answer simple questions about the past",
+      "Say what I did"
+    ],
+    "success_criteria": "Learner uses was/were and at least three regular past simple verbs correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask and answer simple questions about the past",
+      "model": [
+        "Yesterday I was at home. I watched a film.",
+        "We visited a friend. The evening was quiet."
+      ],
+      "guided_tasks": [
+        "Complete: Yesterday I was at ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Say where you were yesterday.",
+        "Describe a regular past action.",
+        "Ask where I was yesterday."
+      ],
+      "transfer_task": "Tell a new classmate about a different fictional yesterday, including where you were and what you did.",
+      "review_task": "Tell a new friend about a different fictional yesterday.",
+      "source_text": "Yesterday I was at home. I watched a film. We visited a friend. The evening was quiet.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: Yesterday I was at ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Say where you were yesterday.",
+        "Describe a regular past action.",
+        "Ask where I was yesterday.",
+        "Tell a new classmate about a different fictional yesterday, including where you were and what you did."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_19",
+    "cefr_level": "A1",
+    "topic": "Past Events and a Holiday Trip",
+    "scenario_context": "AI Persona: Pedro, a friend back from holiday. User Role: Friend asking about the trip. Setting: Coffee shop. Action: Ask when and where Pedro went and tell him about your own last holiday.",
+    "grammar_focus": [
+      "Past simple irregular verbs (went, ate, saw, met)",
+      "Past simple questions and negatives (When did you arrive? I didn't like...)"
+    ],
+    "vocabulary_focus": [
+      "went",
+      "arrived",
+      "stayed",
+      "lived",
+      "moved",
+      "for six months",
+      "when I was 15",
+      "holiday / beach / hotel"
+    ],
+    "functional_objectives": [
+      "Ask and answer questions about past events",
+      "Give simple information about a trip"
+    ],
+    "success_criteria": "Learner asks two 'did' questions and gives three past simple sentences including one irregular verb.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask and answer questions about past events",
+      "model": [
+        "I went to the coast and ate fish.",
+        "Where did you stay? I didn't stay in a hotel."
+      ],
+      "guided_tasks": [
+        "Complete: Last week I went to ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe a fictional trip using went.",
+        "Say what you ate and where you stayed.",
+        "Ask me a question about my last trip."
+      ],
+      "transfer_task": "Talk about a different imaginary trip and ask the other traveller two past-tense questions.",
+      "review_task": "Describe another trip and one thing you did not do.",
+      "source_text": "I went to the coast and ate fish. Where did you stay? I didn't stay in a hotel.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: Last week I went to ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe a fictional trip using went.",
+        "Say what you ate and where you stayed.",
+        "Ask me a question about my last trip.",
+        "Talk about a different imaginary trip and ask the other traveller two past-tense questions."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_20",
+    "cefr_level": "A1",
+    "topic": "Making Plans",
+    "scenario_context": "AI Persona: Classmate called Laura. User Role: Friend inviting her out. Setting: After class at the school gate. Action: Talk about what you are going to do this weekend and suggest a time and place.",
+    "grammar_focus": [
+      "Going to (future plans)",
+      "Questions with going to (Are you going to study this weekend?)"
+    ],
+    "vocabulary_focus": [
+      "this weekend",
+      "tomorrow",
+      "next week",
+      "going to visit",
+      "going to study",
+      "cinema",
+      "go shopping",
+      "meet"
+    ],
+    "functional_objectives": [
+      "Ask and answer about future plans",
+      "Interact in a simple way with support"
+    ],
+    "success_criteria": "Learner states three plans with 'going to' and asks at least one 'Are you going to...?' question.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Ask and answer about future plans",
+      "model": [
+        "I'm going to visit my friend on Saturday.",
+        "Are you going to cook tonight? I'm not going to work."
+      ],
+      "guided_tasks": [
+        "Complete: On Saturday I am going to ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Describe a fictional weekend plan.",
+        "Ask what I am going to do.",
+        "Explain one thing you are not going to do."
+      ],
+      "transfer_task": "Arrange a different weekend with a friend; explain your plans and ask about theirs.",
+      "review_task": "Arrange a different weekend with a new friend.",
+      "source_text": "I'm going to visit my friend on Saturday. Are you going to cook tonight? I'm not going to work.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Complete: On Saturday I am going to ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Describe a fictional weekend plan.",
+        "Ask what I am going to do.",
+        "Explain one thing you are not going to do.",
+        "Arrange a different weekend with a friend; explain your plans and ask about theirs."
+      ]
+    }
+  },
+  {
+    "lesson_id": "A1_21",
+    "cefr_level": "A1",
+    "topic": "Forms, Signs and Connecting Ideas",
+    "scenario_context": "AI Persona: Hotel receptionist called Sarah handing over a registration card. User Role: Guest completing the form and writing a short postcard. Setting: Hotel lobby. Action: Fill in the form aloud, read signs (no smoking, keep left), then say and write a short text about yourself using and/but/because.",
+    "grammar_focus": [
+      "Connecting words: and, but, because",
+      "Prepositions, common (in, at, on, to, from)"
+    ],
+    "vocabulary_focus": [
+      "address",
+      "nationality",
+      "date of birth",
+      "signature",
+      "no smoking",
+      "no parking",
+      "keep left",
+      "personal information"
+    ],
+    "functional_objectives": [
+      "Understand and complete simple forms and everyday signs",
+      "Write simple sentences about myself and where I live"
+    ],
+    "success_criteria": "Learner gives all form details orally, explains two signs, and produces three linked sentences with and/but/because.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and complete simple forms and everyday signs",
+      "model": [
+        "Name: Mila. Country: Spain. Arrival: Monday.",
+        "The shop is open, but the cafe is closed because it's late."
+      ],
+      "guided_tasks": [
+        "Read: cafe closed, shop open; complete: The cafe is ___.",
+        "Change the fictional details in that frame; ask for a new answer."
+      ],
+      "independent_tasks": [
+        "Read: Museum open 10-16; say when it closes.",
+        "Fill a fictional form: name, country, arrival day.",
+        "Read: Please wait here; explain its meaning."
+      ],
+      "transfer_task": "Complete a different fictional registration card and explain a simple written sign.",
+      "review_task": "New form: first name, city, departure day; complete it and explain No entry.",
+      "source_text": "Name: Mila. Country: Spain. Arrival: Monday. The shop is open, but the cafe is closed because it's late.",
+      "pronunciation_focus": "Offer a short spoken model on request; never grade pronunciation from a transcript.",
+      "scope_note": "A short lesson may have several practice chunks; introduce one grammar point at a time.",
+      "practice_tasks": [
+        "Teach model 1 with native-language meaning; ask the learner to identify its meaning.",
+        "Teach model 2; ask a short comprehension question about its purpose.",
+        "Read: cafe closed, shop open; complete: The cafe is ___.",
+        "Use that frame again with different fictional details and reduced hints.",
+        "Read: Museum open 10-16; say when it closes.",
+        "Fill a fictional form: name, country, arrival day.",
+        "Read: Please wait here; explain its meaning.",
+        "Complete a different fictional registration card and explain a simple written sign."
+      ]
+    }
+  }
+]

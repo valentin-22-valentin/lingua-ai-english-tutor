@@ -1,0 +1,25 @@
+﻿name: lingua_path
+description: Voice-first AI language learning workspace.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.3.0
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.0
+  http_parser: ^4.0.2
+  uuid: ^4.4.0
+  shared_preferences: ^2.2.3
+  record: ^5.1.2
+  audioplayers: ^6.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+

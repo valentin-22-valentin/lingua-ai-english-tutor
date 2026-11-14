@@ -1,0 +1,35 @@
+# API keys / secrets
+openai_api.txt
+groq_ai_api_key.txt
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local audio and test artifacts
+temp.wav
+response.mp3
+.pytest_cache/
+.coverage
+node_modules/
+media_files/
+media_manifest.local.json
+artifacts/ui/demo_web/
+artifacts/ui/growth_demo_web/
+tmp/
+
+# Private, complete local restore archives (include secrets)
+backups/
+.cache/
+artifacts/
+
+# Personal editor settings
+.vscode/

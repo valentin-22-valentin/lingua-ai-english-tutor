@@ -1,0 +1,931 @@
+[
+  {
+    "lesson_id": "C1_01",
+    "cefr_level": "C1",
+    "topic": "Expressing Attitudes and Feelings Precisely",
+    "scenario_context": "AI Persona: Trusted mentor called Dr. Adeyemi. User Role: Team leader with a delicate ethical concern. Setting: Private office conversation. Action: Express complex feelings and reservations about a colleague's decision precisely and diplomatically.",
+    "grammar_focus": [
+      "Fronting and emphasis for attitude (What concerns me is...)",
+      "Hedging structures (I'm not entirely comfortable with...)"
+    ],
+    "vocabulary_focus": [
+      "I don't really feel comfortable with...",
+      "I couldn't care less whether...",
+      "I'm afraid this is something I feel quite strongly about",
+      "devastated",
+      "mixed feelings",
+      "deliberately sabotaged",
+      "burden lifted",
+      "a sense of pride"
+    ],
+    "functional_objectives": [
+      "Express attitudes and feelings precisely",
+      "Adopt a level of formality appropriate to the relationship"
+    ],
+    "success_criteria": "Learner expresses a nuanced position for 6+ sentences with precise emotional vocabulary and an appropriate register.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Express attitudes and feelings precisely",
+      "model": [
+        "What concerns me most is the assumption that everyone can adjust at the same pace.",
+        "I'm not entirely comfortable with the timetable, although I appreciate the pressure the team is under."
+      ],
+      "source_text": "What concerns me most is the assumption that everyone can adjust at the same pace. I'm not entirely comfortable with the timetable, although I appreciate the pressure the team is under.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: What concerns me most is the assumption that everyone can adjust at the same pace.",
+        "Guided reply: use this model in a different situation, with less help: I'm not entirely comfortable with the timetable, although I appreciate the pressure the team is under."
+      ],
+      "independent_tasks": [
+        "Independent task. Express complex feelings and reservations about a colleague's decision precisely and diplomatically. Demonstrate this skill: Express attitudes and feelings precisely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Adopt a level of formality appropriate to the relationship. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Expressing Attitudes and Feelings Precisely."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Expressing Attitudes and Feelings Precisely. Ask the learner to express attitudes and feelings precisely, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Fronting and emphasis for attitude (What concerns me is...). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: What concerns me most is the assumption that everyone can adjust at the same pace.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I'm not entirely comfortable with the timetable, although I appreciate the pressure the team is under.",
+        "Guided reformulation: use this model and change one relevant detail: What concerns me most is the assumption that everyone can adjust at the same pace.",
+        "Guided reply: use this model in a different situation, with less help: I'm not entirely comfortable with the timetable, although I appreciate the pressure the team is under.",
+        "Independent task. Express complex feelings and reservations about a colleague's decision precisely and diplomatically. Demonstrate this skill: Express attitudes and feelings precisely. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Adopt a level of formality appropriate to the relationship. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Expressing Attitudes and Feelings Precisely.",
+        "Transfer: create a new, explicit situation about Expressing Attitudes and Feelings Precisely. Ask the learner to express attitudes and feelings precisely, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_02",
+    "cefr_level": "C1",
+    "topic": "Certainty, Probability and Tentative Opinions",
+    "scenario_context": "AI Persona: Senior editor called Ms. Ito. User Role: Political analyst. Setting: TV news panel. Action: Assess the likelihood of events and offer tentative views with appropriate hedging.",
+    "grammar_focus": [
+      "Modals and adverbs of probability (bound to, highly likely, could well)",
+      "Hedging and tentative language (I assume, It's supposed to be...)"
+    ],
+    "vocabulary_focus": [
+      "It is highly likely that",
+      "There's bound to be",
+      "It looks as if",
+      "I rather doubt that",
+      "It could well be",
+      "I suppose that could be an option",
+      "I should think",
+      "Am I right to think...?"
+    ],
+    "functional_objectives": [
+      "Express certainty, probability and doubt",
+      "Express opinions tentatively (hedging)"
+    ],
+    "success_criteria": "Learner produces at least six statements along a certainty scale with accurate hedging.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Express certainty, probability and doubt",
+      "model": [
+        "The figures could well reflect a temporary change rather than a lasting trend.",
+        "A modest improvement seems highly likely, but I would hesitate to predict a complete recovery."
+      ],
+      "source_text": "The figures could well reflect a temporary change rather than a lasting trend. A modest improvement seems highly likely, but I would hesitate to predict a complete recovery.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The figures could well reflect a temporary change rather than a lasting trend.",
+        "Guided reply: use this model in a different situation, with less help: A modest improvement seems highly likely, but I would hesitate to predict a complete recovery."
+      ],
+      "independent_tasks": [
+        "Independent task. Assess the likelihood of events and offer tentative views with appropriate hedging. Demonstrate this skill: Express certainty, probability and doubt. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Express opinions tentatively (hedging). Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Certainty, Probability and Tentative Opinions."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Certainty, Probability and Tentative Opinions. Ask the learner to express certainty, probability and doubt, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Modals and adverbs of probability (bound to, highly likely, could well). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The figures could well reflect a temporary change rather than a lasting trend.",
+        "Teach this second example, then ask what the speaker is trying to communicate: A modest improvement seems highly likely, but I would hesitate to predict a complete recovery.",
+        "Guided reformulation: use this model and change one relevant detail: The figures could well reflect a temporary change rather than a lasting trend.",
+        "Guided reply: use this model in a different situation, with less help: A modest improvement seems highly likely, but I would hesitate to predict a complete recovery.",
+        "Independent task. Assess the likelihood of events and offer tentative views with appropriate hedging. Demonstrate this skill: Express certainty, probability and doubt. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Express opinions tentatively (hedging). Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Certainty, Probability and Tentative Opinions.",
+        "Transfer: create a new, explicit situation about Certainty, Probability and Tentative Opinions. Ask the learner to express certainty, probability and doubt, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_03",
+    "cefr_level": "C1",
+    "topic": "Shades of Opinion in Complex Debate",
+    "scenario_context": "AI Persona: Environmental policy advisor called Dr. Green. User Role: Consumer advocate. Setting: Public forum on fair trade. Action: Give a layered opinion on an ethical issue, acknowledging trade-offs.",
+    "grammar_focus": [
+      "Complex sentences with concessive clauses (although, whilst, even so)",
+      "Emphasis and qualification (I may be wrong, but...)"
+    ],
+    "vocabulary_focus": [
+      "I may be wrong, but I think...",
+      "almost certain",
+      "I have a feeling there may be...",
+      "I tend to buy",
+      "grand promises",
+      "immediate impact",
+      "green objectives",
+      "exploited"
+    ],
+    "functional_objectives": [
+      "Express shades of opinion and certainty",
+      "Speculate on causes and consequences"
+    ],
+    "success_criteria": "Learner gives a nuanced 8-sentence opinion acknowledging at least one counterpoint.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Express shades of opinion and certainty",
+      "model": [
+        "Whilst the proposal addresses a genuine problem, it risks shifting the burden onto those least able to bear it.",
+        "I may be overlooking a constraint; even so, a phased introduction would seem more defensible."
+      ],
+      "source_text": "Whilst the proposal addresses a genuine problem, it risks shifting the burden onto those least able to bear it. I may be overlooking a constraint; even so, a phased introduction would seem more defensible.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Whilst the proposal addresses a genuine problem, it risks shifting the burden onto those least able to bear it.",
+        "Guided reply: use this model in a different situation, with less help: I may be overlooking a constraint; even so, a phased introduction would seem more defensible."
+      ],
+      "independent_tasks": [
+        "Independent task. Give a layered opinion on an ethical issue, acknowledging trade-offs. Demonstrate this skill: Express shades of opinion and certainty. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Speculate on causes and consequences. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Shades of Opinion in Complex Debate."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Shades of Opinion in Complex Debate. Ask the learner to express shades of opinion and certainty, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Complex sentences with concessive clauses (although, whilst, even so). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Whilst the proposal addresses a genuine problem, it risks shifting the burden onto those least able to bear it.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I may be overlooking a constraint; even so, a phased introduction would seem more defensible.",
+        "Guided reformulation: use this model and change one relevant detail: Whilst the proposal addresses a genuine problem, it risks shifting the burden onto those least able to bear it.",
+        "Guided reply: use this model in a different situation, with less help: I may be overlooking a constraint; even so, a phased introduction would seem more defensible.",
+        "Independent task. Give a layered opinion on an ethical issue, acknowledging trade-offs. Demonstrate this skill: Express shades of opinion and certainty. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Speculate on causes and consequences. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Shades of Opinion in Complex Debate.",
+        "Transfer: create a new, explicit situation about Shades of Opinion in Complex Debate. Ask the learner to express shades of opinion and certainty, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_04",
+    "cefr_level": "C1",
+    "topic": "Speculating and Hypothesising About Causes and Consequences",
+    "scenario_context": "AI Persona: Crisis-team analyst called Marc. User Role: Consultant. Setting: Emergency planning meeting after an oil spill. Action: Hypothesise about causes, consequences and alternative scenarios.",
+    "grammar_focus": [
+      "Mixed conditionals in past, present and future",
+      "Supposing / suppose / what if structures"
+    ],
+    "vocabulary_focus": [
+      "Supposing he had missed his train?",
+      "If the pound did drop to parity",
+      "there could be a lot more fallout",
+      "If you'd arrived on time, we would probably have missed the traffic",
+      "polluted for decades",
+      "better off in the long run",
+      "consequences",
+      "scenario"
+    ],
+    "functional_objectives": [
+      "Speculate and hypothesise about causes and consequences",
+      "Pinpoint areas needing clarification"
+    ],
+    "success_criteria": "Learner constructs at least five conditionals mixing time frames and hypotheses accurately.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Speculate and hypothesise about causes and consequences",
+      "model": [
+        "Had the consultation been broader, the current objections might have been anticipated.",
+        "Supposing demand were to rise sharply, how would the service cope without compromising access?"
+      ],
+      "source_text": "Had the consultation been broader, the current objections might have been anticipated. Supposing demand were to rise sharply, how would the service cope without compromising access?",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Had the consultation been broader, the current objections might have been anticipated.",
+        "Guided reply: use this model in a different situation, with less help: Supposing demand were to rise sharply, how would the service cope without compromising access?"
+      ],
+      "independent_tasks": [
+        "Independent task. Hypothesise about causes, consequences and alternative scenarios. Demonstrate this skill: Speculate and hypothesise about causes and consequences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Pinpoint areas needing clarification. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Speculating and Hypothesising About Causes and Consequences."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Speculating and Hypothesising About Causes and Consequences. Ask the learner to speculate and hypothesise about causes and consequences, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Mixed conditionals in past, present and future. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Had the consultation been broader, the current objections might have been anticipated.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Supposing demand were to rise sharply, how would the service cope without compromising access?",
+        "Guided reformulation: use this model and change one relevant detail: Had the consultation been broader, the current objections might have been anticipated.",
+        "Guided reply: use this model in a different situation, with less help: Supposing demand were to rise sharply, how would the service cope without compromising access?",
+        "Independent task. Hypothesise about causes, consequences and alternative scenarios. Demonstrate this skill: Speculate and hypothesise about causes and consequences. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Pinpoint areas needing clarification. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Speculating and Hypothesising About Causes and Consequences.",
+        "Transfer: create a new, explicit situation about Speculating and Hypothesising About Causes and Consequences. Ask the learner to speculate and hypothesise about causes and consequences, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_05",
+    "cefr_level": "C1",
+    "topic": "Regret and Wishes",
+    "scenario_context": "AI Persona: Old friend called Lola. User Role: Friend who took a different path in life. Setting: Reunion dinner. Action: Reflect on missed opportunities and what could have been.",
+    "grammar_focus": [
+      "Wish / if only regrets (past, present and future reference)",
+      "Modals in the past (should have, might have, needn't have)"
+    ],
+    "vocabulary_focus": [
+      "I wish I'd studied a bit harder",
+      "If only I had behaved a bit better",
+      "If only he'd take more care",
+      "You might have told me",
+      "You needn't have bought",
+      "embarrassed",
+      "opportunity",
+      "turned out differently"
+    ],
+    "functional_objectives": [
+      "Express regret, criticism and reproach",
+      "Reflect on past events"
+    ],
+    "success_criteria": "Learner produces six accurate wish/if only and past modal sentences in a coherent reflection.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Express regret, criticism and reproach",
+      "model": [
+        "If only we had clarified our responsibilities before the project began.",
+        "We needn't have abandoned the idea entirely; a narrower pilot might have revealed what needed changing."
+      ],
+      "source_text": "If only we had clarified our responsibilities before the project began. We needn't have abandoned the idea entirely; a narrower pilot might have revealed what needed changing.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: If only we had clarified our responsibilities before the project began.",
+        "Guided reply: use this model in a different situation, with less help: We needn't have abandoned the idea entirely; a narrower pilot might have revealed what needed changing."
+      ],
+      "independent_tasks": [
+        "Independent task. Reflect on missed opportunities and what could have been. Demonstrate this skill: Express regret, criticism and reproach. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Reflect on past events. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Regret and Wishes."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Regret and Wishes. Ask the learner to express regret, criticism and reproach, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Wish / if only regrets (past, present and future reference). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: If only we had clarified our responsibilities before the project began.",
+        "Teach this second example, then ask what the speaker is trying to communicate: We needn't have abandoned the idea entirely; a narrower pilot might have revealed what needed changing.",
+        "Guided reformulation: use this model and change one relevant detail: If only we had clarified our responsibilities before the project began.",
+        "Guided reply: use this model in a different situation, with less help: We needn't have abandoned the idea entirely; a narrower pilot might have revealed what needed changing.",
+        "Independent task. Reflect on missed opportunities and what could have been. Demonstrate this skill: Express regret, criticism and reproach. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Reflect on past events. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Regret and Wishes.",
+        "Transfer: create a new, explicit situation about Regret and Wishes. Ask the learner to express regret, criticism and reproach, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_06",
+    "cefr_level": "C1",
+    "topic": "Advanced Storytelling with Narrative Tenses",
+    "scenario_context": "AI Persona: Writing-workshop leader called Miriam. User Role: Participant sharing a story. Setting: Creative-writing workshop. Action: Tell a suspenseful story using varied narrative tenses, past habits and backstory.",
+    "grammar_focus": [
+      "Narrative tenses for experiences, including passive (had been inseparable; was being followed)",
+      "Used to / would for habitual past"
+    ],
+    "vocabulary_focus": [
+      "sombre mood",
+      "kicking pebbles",
+      "coves and beaches",
+      "had completely disappeared",
+      "it surprised him how quickly",
+      "suspense",
+      "palpable",
+      "tidying away"
+    ],
+    "functional_objectives": [
+      "Give a clear, well-structured description of complex events",
+      "Develop a narrative systematically"
+    ],
+    "success_criteria": "Learner tells a coherent 10-sentence narrative fluently, using at least four narrative tenses accurately.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give a clear, well-structured description of complex events",
+      "model": [
+        "By the time the rescue team arrived, the path had been blocked and daylight was fading.",
+        "We had been following an old map, as we would do on childhood trips, but the landscape had changed."
+      ],
+      "source_text": "By the time the rescue team arrived, the path had been blocked and daylight was fading. We had been following an old map, as we would do on childhood trips, but the landscape had changed.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: By the time the rescue team arrived, the path had been blocked and daylight was fading.",
+        "Guided reply: use this model in a different situation, with less help: We had been following an old map, as we would do on childhood trips, but the landscape had changed."
+      ],
+      "independent_tasks": [
+        "Independent task. Tell a suspenseful story using varied narrative tenses, past habits and backstory. Demonstrate this skill: Give a clear, well-structured description of complex events. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Develop a narrative systematically. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Advanced Storytelling with Narrative Tenses."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Advanced Storytelling with Narrative Tenses. Ask the learner to give a clear, well-structured description of complex events, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Narrative tenses for experiences, including passive (had been inseparable; was being followed). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: By the time the rescue team arrived, the path had been blocked and daylight was fading.",
+        "Teach this second example, then ask what the speaker is trying to communicate: We had been following an old map, as we would do on childhood trips, but the landscape had changed.",
+        "Guided reformulation: use this model and change one relevant detail: By the time the rescue team arrived, the path had been blocked and daylight was fading.",
+        "Guided reply: use this model in a different situation, with less help: We had been following an old map, as we would do on childhood trips, but the landscape had changed.",
+        "Independent task. Tell a suspenseful story using varied narrative tenses, past habits and backstory. Demonstrate this skill: Give a clear, well-structured description of complex events. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Develop a narrative systematically. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Advanced Storytelling with Narrative Tenses.",
+        "Transfer: create a new, explicit situation about Advanced Storytelling with Narrative Tenses. Ask the learner to give a clear, well-structured description of complex events, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_07",
+    "cefr_level": "C1",
+    "topic": "Futures Revision: Complex Plans and Predictions",
+    "scenario_context": "AI Persona: Wealth-planning adviser called Raoul. User Role: Client planning a business expansion. Setting: Advisory meeting. Action: Discuss plans, predictions and milestones using a full range of future forms.",
+    "grammar_focus": [
+      "Futures revision (will, going to, present continuous, future continuous, future perfect, future perfect continuous)",
+      "Prediction and arrangement contrast"
+    ],
+    "vocabulary_focus": [
+      "This time next year I'll be...",
+      "will have expired before",
+      "I'll have been working here for five years",
+      "getting married in August",
+      "He's going to get here in five minutes",
+      "milestone",
+      "forecast",
+      "look-at-me car"
+    ],
+    "functional_objectives": [
+      "Give clear, well-structured descriptions of future situations",
+      "Synthesise plans and predictions"
+    ],
+    "success_criteria": "Learner uses at least five different future forms appropriately in a coherent discussion.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Give clear, well-structured descriptions of future situations",
+      "model": [
+        "By September, I will have been working remotely for five years.",
+        "I'm meeting the director next week; by then, we should have agreed how the transition will be managed."
+      ],
+      "source_text": "By September, I will have been working remotely for five years. I'm meeting the director next week; by then, we should have agreed how the transition will be managed.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: By September, I will have been working remotely for five years.",
+        "Guided reply: use this model in a different situation, with less help: I'm meeting the director next week; by then, we should have agreed how the transition will be managed."
+      ],
+      "independent_tasks": [
+        "Independent task. Discuss plans, predictions and milestones using a full range of future forms. Demonstrate this skill: Give clear, well-structured descriptions of future situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Synthesise plans and predictions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Futures Revision: Complex Plans and Predictions."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Futures Revision: Complex Plans and Predictions. Ask the learner to give clear, well-structured descriptions of future situations, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Futures revision (will, going to, present continuous, future continuous, future perfect, future perfect continuous). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: By September, I will have been working remotely for five years.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I'm meeting the director next week; by then, we should have agreed how the transition will be managed.",
+        "Guided reformulation: use this model and change one relevant detail: By September, I will have been working remotely for five years.",
+        "Guided reply: use this model in a different situation, with less help: I'm meeting the director next week; by then, we should have agreed how the transition will be managed.",
+        "Independent task. Discuss plans, predictions and milestones using a full range of future forms. Demonstrate this skill: Give clear, well-structured descriptions of future situations. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Synthesise plans and predictions. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Futures Revision: Complex Plans and Predictions.",
+        "Transfer: create a new, explicit situation about Futures Revision: Complex Plans and Predictions. Ask the learner to give clear, well-structured descriptions of future situations, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_08",
+    "cefr_level": "C1",
+    "topic": "Passive Forms in Formal Contexts",
+    "scenario_context": "AI Persona: Legal officer called Ms. Okafor. User Role: HR manager. Setting: Meeting on a disciplinary decision. Action: Explain decisions and outcomes using all passive forms and formal reporting structures.",
+    "grammar_focus": [
+      "Passive forms, all (will be given, has been found, will have been taken, being transferred)",
+      "Passive with modals (ought to be sacked, might have been hurt)"
+    ],
+    "vocabulary_focus": [
+      "He'll be given a warning",
+      "He's going to be given an award",
+      "He ought to be sacked",
+      "will all have been taken",
+      "Having been beaten so many times",
+      "transferred",
+      "disciplinary",
+      "procedure"
+    ],
+    "functional_objectives": [
+      "Understand and produce formal and impersonal language",
+      "Report decisions precisely"
+    ],
+    "success_criteria": "Learner uses at least five varied passive constructions correctly in a formal explanation.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Understand and produce formal and impersonal language",
+      "model": [
+        "The findings will have been reviewed before the final recommendations are released.",
+        "Participants ought to have been informed that their responses might be quoted anonymously."
+      ],
+      "source_text": "The findings will have been reviewed before the final recommendations are released. Participants ought to have been informed that their responses might be quoted anonymously.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The findings will have been reviewed before the final recommendations are released.",
+        "Guided reply: use this model in a different situation, with less help: Participants ought to have been informed that their responses might be quoted anonymously."
+      ],
+      "independent_tasks": [
+        "Independent task. Explain decisions and outcomes using all passive forms and formal reporting structures. Demonstrate this skill: Understand and produce formal and impersonal language. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Report decisions precisely. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Passive Forms in Formal Contexts."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Passive Forms in Formal Contexts. Ask the learner to understand and produce formal and impersonal language, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Passive forms, all (will be given, has been found, will have been taken, being transferred). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The findings will have been reviewed before the final recommendations are released.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Participants ought to have been informed that their responses might be quoted anonymously.",
+        "Guided reformulation: use this model and change one relevant detail: The findings will have been reviewed before the final recommendations are released.",
+        "Guided reply: use this model in a different situation, with less help: Participants ought to have been informed that their responses might be quoted anonymously.",
+        "Independent task. Explain decisions and outcomes using all passive forms and formal reporting structures. Demonstrate this skill: Understand and produce formal and impersonal language. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Report decisions precisely. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Passive Forms in Formal Contexts.",
+        "Transfer: create a new, explicit situation about Passive Forms in Formal Contexts. Ask the learner to understand and produce formal and impersonal language, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_09",
+    "cefr_level": "C1",
+    "topic": "Inversion for Emphasis",
+    "scenario_context": "AI Persona: Investigative journalist called Nadia. User Role: Whistleblower interview subject. Setting: Recorded interview. Action: Describe dramatic revelations, using inversion to emphasise how surprising events were.",
+    "grammar_focus": [
+      "Inversion with negative adverbials (Little did I know..., Never had I..., Hardly had... when...)",
+      "Emphatic structures (Not only... but also...)"
+    ],
+    "vocabulary_focus": [
+      "Little did I know that...",
+      "Never before had I...",
+      "Not only did they...",
+      "Hardly had I arrived when...",
+      "under no circumstances",
+      "company",
+      "cover-up",
+      "revealed"
+    ],
+    "functional_objectives": [
+      "Emphasise a point, feeling or issue",
+      "Develop a narrative with dramatic effect"
+    ],
+    "success_criteria": "Learner produces five accurate inverted sentences in a coherent account.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Emphasise a point, feeling or issue",
+      "model": [
+        "Rarely have I encountered such a careful balance of accessibility and depth.",
+        "Not only did the team meet its deadline, but it also documented the assumptions behind every decision."
+      ],
+      "source_text": "Rarely have I encountered such a careful balance of accessibility and depth. Not only did the team meet its deadline, but it also documented the assumptions behind every decision.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Rarely have I encountered such a careful balance of accessibility and depth.",
+        "Guided reply: use this model in a different situation, with less help: Not only did the team meet its deadline, but it also documented the assumptions behind every decision."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe dramatic revelations, using inversion to emphasise how surprising events were. Demonstrate this skill: Emphasise a point, feeling or issue. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Develop a narrative with dramatic effect. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Inversion for Emphasis."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Inversion for Emphasis. Ask the learner to emphasise a point, feeling or issue, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Inversion with negative adverbials (Little did I know..., Never had I..., Hardly had... when...). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Rarely have I encountered such a careful balance of accessibility and depth.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Not only did the team meet its deadline, but it also documented the assumptions behind every decision.",
+        "Guided reformulation: use this model and change one relevant detail: Rarely have I encountered such a careful balance of accessibility and depth.",
+        "Guided reply: use this model in a different situation, with less help: Not only did the team meet its deadline, but it also documented the assumptions behind every decision.",
+        "Independent task. Describe dramatic revelations, using inversion to emphasise how surprising events were. Demonstrate this skill: Emphasise a point, feeling or issue. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Develop a narrative with dramatic effect. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Inversion for Emphasis.",
+        "Transfer: create a new, explicit situation about Inversion for Emphasis. Ask the learner to emphasise a point, feeling or issue, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_10",
+    "cefr_level": "C1",
+    "topic": "Splitting Phrasal Verbs and Idiomatic Language",
+    "scenario_context": "AI Persona: Boss called Marion who uses idioms and informal expressions. User Role: Employee at a social work event. Setting: Company barbecue. Action: Chat informally, using separable phrasal verbs and idiomatic expressions naturally.",
+    "grammar_focus": [
+      "Phrasal verbs, especially splitting (broke the fight up, talked me into, put John up to it)",
+      "Object pronouns with phrasal verbs"
+    ],
+    "vocabulary_focus": [
+      "on the tip of my tongue",
+      "the flavour of the month",
+      "a shoulder to cry on",
+      "make out",
+      "talk into",
+      "break up",
+      "flog",
+      "a bit shy"
+    ],
+    "functional_objectives": [
+      "Use idiomatic expressions and colloquialisms fluently",
+      "Adopt an appropriate register in a social setting"
+    ],
+    "success_criteria": "Learner uses five phrasal verbs and idioms accurately with correct separation and pronoun placement.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Use idiomatic expressions and colloquialisms fluently",
+      "model": [
+        "She talked me into revising the proposal, then helped me break it down into manageable stages.",
+        "I wouldn't put him up to anything dishonest; he simply misunderstood what the invitation implied."
+      ],
+      "source_text": "She talked me into revising the proposal, then helped me break it down into manageable stages. I wouldn't put him up to anything dishonest; he simply misunderstood what the invitation implied.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: She talked me into revising the proposal, then helped me break it down into manageable stages.",
+        "Guided reply: use this model in a different situation, with less help: I wouldn't put him up to anything dishonest; he simply misunderstood what the invitation implied."
+      ],
+      "independent_tasks": [
+        "Independent task. Chat informally, using separable phrasal verbs and idiomatic expressions naturally. Demonstrate this skill: Use idiomatic expressions and colloquialisms fluently. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Adopt an appropriate register in a social setting. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Splitting Phrasal Verbs and Idiomatic Language."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Splitting Phrasal Verbs and Idiomatic Language. Ask the learner to use idiomatic expressions and colloquialisms fluently, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Phrasal verbs, especially splitting (broke the fight up, talked me into, put John up to it). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: She talked me into revising the proposal, then helped me break it down into manageable stages.",
+        "Teach this second example, then ask what the speaker is trying to communicate: I wouldn't put him up to anything dishonest; he simply misunderstood what the invitation implied.",
+        "Guided reformulation: use this model and change one relevant detail: She talked me into revising the proposal, then helped me break it down into manageable stages.",
+        "Guided reply: use this model in a different situation, with less help: I wouldn't put him up to anything dishonest; he simply misunderstood what the invitation implied.",
+        "Independent task. Chat informally, using separable phrasal verbs and idiomatic expressions naturally. Demonstrate this skill: Use idiomatic expressions and colloquialisms fluently. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Adopt an appropriate register in a social setting. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Splitting Phrasal Verbs and Idiomatic Language.",
+        "Transfer: create a new, explicit situation about Splitting Phrasal Verbs and Idiomatic Language. Ask the learner to use idiomatic expressions and colloquialisms fluently, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_11",
+    "cefr_level": "C1",
+    "topic": "Formal vs Informal Registers and False Friends",
+    "scenario_context": "AI Persona: Communications director called Mr. Wilson. User Role: PR assistant. Setting: Agency office. Action: Rewrite the same message for a press release, an email to a colleague and a text to a friend; discuss false friends in international communications.",
+    "grammar_focus": [
+      "Register shift in grammar (passive vs active, contractions, full forms)",
+      "Nominalisation in formal text"
+    ],
+    "vocabulary_focus": [
+      "passed away peacefully",
+      "died in his sleep",
+      "kicked the bucket",
+      "false friends",
+      "experiment vs experience",
+      "formal / informal register",
+      "euphemism",
+      "connotation"
+    ],
+    "functional_objectives": [
+      "Distinguish and use formal and informal registers",
+      "Eliminate false friends and choose vocabulary precisely"
+    ],
+    "success_criteria": "Learner rewrites one message in three registers and identifies at least two false friends correctly.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Distinguish and use formal and informal registers",
+      "model": [
+        "Formal: We would appreciate confirmation of your availability. Neutral: Please confirm whether you can attend.",
+        "Informal: Can you let me know if you're coming? 'Actually' means in fact, not currently."
+      ],
+      "source_text": "Formal: We would appreciate confirmation of your availability. Neutral: Please confirm whether you can attend. Informal: Can you let me know if you're coming? 'Actually' means in fact, not currently.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: Formal: We would appreciate confirmation of your availability. Neutral: Please confirm whether you can attend.",
+        "Guided reply: use this model in a different situation, with less help: Informal: Can you let me know if you're coming? 'Actually' means in fact, not currently."
+      ],
+      "independent_tasks": [
+        "Independent task. Rewrite the same message for a press release, an email to a colleague and a text to a friend; discuss false friends in international communications. Demonstrate this skill: Distinguish and use formal and informal registers. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Eliminate false friends and choose vocabulary precisely. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Formal vs Informal Registers and False Friends."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Formal vs Informal Registers and False Friends. Ask the learner to distinguish and use formal and informal registers, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Register shift in grammar (passive vs active, contractions, full forms). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: Formal: We would appreciate confirmation of your availability. Neutral: Please confirm whether you can attend.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Informal: Can you let me know if you're coming? 'Actually' means in fact, not currently.",
+        "Guided reformulation: use this model and change one relevant detail: Formal: We would appreciate confirmation of your availability. Neutral: Please confirm whether you can attend.",
+        "Guided reply: use this model in a different situation, with less help: Informal: Can you let me know if you're coming? 'Actually' means in fact, not currently.",
+        "Independent task. Rewrite the same message for a press release, an email to a colleague and a text to a friend; discuss false friends in international communications. Demonstrate this skill: Distinguish and use formal and informal registers. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Eliminate false friends and choose vocabulary precisely. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Formal vs Informal Registers and False Friends.",
+        "Transfer: create a new, explicit situation about Formal vs Informal Registers and False Friends. Ask the learner to distinguish and use formal and informal registers, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_12",
+    "cefr_level": "C1",
+    "topic": "Approximating and Differentiated Vocabulary",
+    "scenario_context": "AI Persona: Repair-shop assistant called Bill. User Role: Customer who can't remember exact terms. Setting: Hardware shop. Action: Describe things you cannot name and choose precise words when you can.",
+    "grammar_focus": [
+      "Vague language (sort of, or something, thingummyjig, about 30 odd)",
+      "Adverb and adjective precision (concise, focused, readable)"
+    ],
+    "vocabulary_focus": [
+      "about 30 odd",
+      "or something like that",
+      "sort of similar",
+      "thingummyjig",
+      "detest vs dislike",
+      "shy vs antisocial",
+      "disappointing vs bad",
+      "concise"
+    ],
+    "functional_objectives": [
+      "Use approximating language when exact terms are unavailable",
+      "Choose precisely among near-synonyms"
+    ],
+    "success_criteria": "Learner uses vague language naturally three times and selects precise words for at least three near-synonym pairs.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Use approximating language when exact terms are unavailable",
+      "model": [
+        "There were thirty-odd participants, though the precise figure matters less than the range of perspectives.",
+        "The summary is concise, but the recommendation needs to be more focused and its evidence more explicit."
+      ],
+      "source_text": "There were thirty-odd participants, though the precise figure matters less than the range of perspectives. The summary is concise, but the recommendation needs to be more focused and its evidence more explicit.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: There were thirty-odd participants, though the precise figure matters less than the range of perspectives.",
+        "Guided reply: use this model in a different situation, with less help: The summary is concise, but the recommendation needs to be more focused and its evidence more explicit."
+      ],
+      "independent_tasks": [
+        "Independent task. Describe things you cannot name and choose precise words when you can. Demonstrate this skill: Use approximating language when exact terms are unavailable. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Choose precisely among near-synonyms. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Approximating and Differentiated Vocabulary."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Approximating and Differentiated Vocabulary. Ask the learner to use approximating language when exact terms are unavailable, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Vague language (sort of, or something, thingummyjig, about 30 odd). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: There were thirty-odd participants, though the precise figure matters less than the range of perspectives.",
+        "Teach this second example, then ask what the speaker is trying to communicate: The summary is concise, but the recommendation needs to be more focused and its evidence more explicit.",
+        "Guided reformulation: use this model and change one relevant detail: There were thirty-odd participants, though the precise figure matters less than the range of perspectives.",
+        "Guided reply: use this model in a different situation, with less help: The summary is concise, but the recommendation needs to be more focused and its evidence more explicit.",
+        "Independent task. Describe things you cannot name and choose precise words when you can. Demonstrate this skill: Use approximating language when exact terms are unavailable. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Choose precisely among near-synonyms. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Approximating and Differentiated Vocabulary.",
+        "Transfer: create a new, explicit situation about Approximating and Differentiated Vocabulary. Ask the learner to use approximating language when exact terms are unavailable, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_13",
+    "cefr_level": "C1",
+    "topic": "Developing and Defending an Argument",
+    "scenario_context": "AI Persona: Debate chair called Prof. Hale. User Role: Debater in a formal competition. Setting: University debating hall. Action: Structure a persuasive argument and respond to two counterarguments.",
+    "grammar_focus": [
+      "Linking devices and logical markers (Moreover, Consequently, Nevertheless, Whereas)",
+      "Markers to structure and signpost formal speech"
+    ],
+    "vocabulary_focus": [
+      "It is frequently argued that",
+      "No one would dispute that",
+      "All the evidence suggests",
+      "I know this may not be a popular conclusion, but",
+      "But one should not lose sight of the fact that",
+      "The main reason for this is",
+      "Thus, to conclude",
+      "opponents"
+    ],
+    "functional_objectives": [
+      "Develop an argument systematically",
+      "Defend a point of view persuasively"
+    ],
+    "success_criteria": "Learner delivers a structured 1-minute argument with introduction, three points and a conclusion, using signposting language.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Develop an argument systematically",
+      "model": [
+        "My central argument is that access should be evaluated alongside efficiency, rather than treated as an afterthought.",
+        "Consequently, I propose a limited pilot, an independent review and a published explanation of the decision."
+      ],
+      "source_text": "My central argument is that access should be evaluated alongside efficiency, rather than treated as an afterthought. Consequently, I propose a limited pilot, an independent review and a published explanation of the decision.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: My central argument is that access should be evaluated alongside efficiency, rather than treated as an afterthought.",
+        "Guided reply: use this model in a different situation, with less help: Consequently, I propose a limited pilot, an independent review and a published explanation of the decision."
+      ],
+      "independent_tasks": [
+        "Independent task. Structure a persuasive argument and respond to two counterarguments. Demonstrate this skill: Develop an argument systematically. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Defend a point of view persuasively. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Developing and Defending an Argument."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Developing and Defending an Argument. Ask the learner to develop an argument systematically, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Linking devices and logical markers (Moreover, Consequently, Nevertheless, Whereas). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: My central argument is that access should be evaluated alongside efficiency, rather than treated as an afterthought.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Consequently, I propose a limited pilot, an independent review and a published explanation of the decision.",
+        "Guided reformulation: use this model and change one relevant detail: My central argument is that access should be evaluated alongside efficiency, rather than treated as an afterthought.",
+        "Guided reply: use this model in a different situation, with less help: Consequently, I propose a limited pilot, an independent review and a published explanation of the decision.",
+        "Independent task. Structure a persuasive argument and respond to two counterarguments. Demonstrate this skill: Develop an argument systematically. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Defend a point of view persuasively. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Developing and Defending an Argument.",
+        "Transfer: create a new, explicit situation about Developing and Defending an Argument. Ask the learner to develop an argument systematically, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_14",
+    "cefr_level": "C1",
+    "topic": "Conceding, Emphasising and Countering",
+    "scenario_context": "AI Persona: Sceptical negotiator called Ms. Brandt. User Role: Project sponsor. Setting: Budget negotiation. Action: Concede valid points, emphasise crucial ones, and respond firmly but politely to objections.",
+    "grammar_focus": [
+      "Concession structures (I take your point... but; Though I hate to say it...)",
+      "Emphatic devices (cleft sentences, repetition)"
+    ],
+    "vocabulary_focus": [
+      "I see what you mean, but...",
+      "I take your point",
+      "I have to admit that",
+      "On the contrary,...",
+      "I think you've misunderstood the point I was making",
+      "In some circumstances I would agree entirely, but...",
+      "All the same,...",
+      "No matter how you look at it"
+    ],
+    "functional_objectives": [
+      "Concede a point",
+      "Respond to counterarguments",
+      "Emphasise a point, feeling or issue"
+    ],
+    "success_criteria": "Learner concedes two points, rebuts two counterarguments and emphasises one key issue with appropriate diplomacy.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Concede a point",
+      "model": [
+        "I take your point about cost; what I cannot accept is the assumption that consultation has no value.",
+        "Though I share your concern about delays, a clear deadline would address it without excluding residents."
+      ],
+      "source_text": "I take your point about cost; what I cannot accept is the assumption that consultation has no value. Though I share your concern about delays, a clear deadline would address it without excluding residents.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: I take your point about cost; what I cannot accept is the assumption that consultation has no value.",
+        "Guided reply: use this model in a different situation, with less help: Though I share your concern about delays, a clear deadline would address it without excluding residents."
+      ],
+      "independent_tasks": [
+        "Independent task. Concede valid points, emphasise crucial ones, and respond firmly but politely to objections. Demonstrate this skill: Concede a point. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Respond to counterarguments. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Conceding, Emphasising and Countering."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Conceding, Emphasising and Countering. Ask the learner to concede a point, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Concession structures (I take your point... but; Though I hate to say it...). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: I take your point about cost; what I cannot accept is the assumption that consultation has no value.",
+        "Teach this second example, then ask what the speaker is trying to communicate: Though I share your concern about delays, a clear deadline would address it without excluding residents.",
+        "Guided reformulation: use this model and change one relevant detail: I take your point about cost; what I cannot accept is the assumption that consultation has no value.",
+        "Guided reply: use this model in a different situation, with less help: Though I share your concern about delays, a clear deadline would address it without excluding residents.",
+        "Independent task. Concede valid points, emphasise crucial ones, and respond firmly but politely to objections. Demonstrate this skill: Concede a point. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Respond to counterarguments. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Conceding, Emphasising and Countering.",
+        "Transfer: create a new, explicit situation about Conceding, Emphasising and Countering. Ask the learner to concede a point, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_15",
+    "cefr_level": "C1",
+    "topic": "Critiquing and Reviewing Constructively",
+    "scenario_context": "AI Persona: Report author called Dr. Lang. User Role: Peer reviewer. Setting: Academic review meeting. Action: Give balanced feedback on a report or book, identify strengths and constructive suggestions.",
+    "grammar_focus": [
+      "Evaluative language and hedged criticism",
+      "Complex sentence structures (The report sets out to..., but it seems to me to lack...)"
+    ],
+    "vocabulary_focus": [
+      "highlights some important issues",
+      "to my mind",
+      "get to the bottom of the problem",
+      "It really hits the nail on the head",
+      "sets out to",
+      "would be improved by",
+      "page-turner",
+      "the only criticism that might be levelled"
+    ],
+    "functional_objectives": [
+      "Critique and review constructively",
+      "Synthesise and evaluate information"
+    ],
+    "success_criteria": "Learner delivers a review of 8+ sentences balancing praise and criticism with hedged, constructive suggestions.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Critique and review constructively",
+      "model": [
+        "The report offers a useful overview, although its conclusions appear to extend beyond the available evidence.",
+        "It would benefit from a clearer distinction between observed changes and the explanations proposed for them."
+      ],
+      "source_text": "The report offers a useful overview, although its conclusions appear to extend beyond the available evidence. It would benefit from a clearer distinction between observed changes and the explanations proposed for them.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The report offers a useful overview, although its conclusions appear to extend beyond the available evidence.",
+        "Guided reply: use this model in a different situation, with less help: It would benefit from a clearer distinction between observed changes and the explanations proposed for them."
+      ],
+      "independent_tasks": [
+        "Independent task. Give balanced feedback on a report or book, identify strengths and constructive suggestions. Demonstrate this skill: Critique and review constructively. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Synthesise and evaluate information. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Critiquing and Reviewing Constructively."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Critiquing and Reviewing Constructively. Ask the learner to critique and review constructively, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Evaluative language and hedged criticism. This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The report offers a useful overview, although its conclusions appear to extend beyond the available evidence.",
+        "Teach this second example, then ask what the speaker is trying to communicate: It would benefit from a clearer distinction between observed changes and the explanations proposed for them.",
+        "Guided reformulation: use this model and change one relevant detail: The report offers a useful overview, although its conclusions appear to extend beyond the available evidence.",
+        "Guided reply: use this model in a different situation, with less help: It would benefit from a clearer distinction between observed changes and the explanations proposed for them.",
+        "Independent task. Give balanced feedback on a report or book, identify strengths and constructive suggestions. Demonstrate this skill: Critique and review constructively. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Synthesise and evaluate information. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Critiquing and Reviewing Constructively.",
+        "Transfer: create a new, explicit situation about Critiquing and Reviewing Constructively. Ask the learner to critique and review constructively, without supplying an answer."
+      ]
+    }
+  },
+  {
+    "lesson_id": "C1_16",
+    "cefr_level": "C1",
+    "topic": "Academic Research: Lectures, Notes and Summaries",
+    "scenario_context": "AI Persona: University tutor. User Role: Student. Setting: Tutorial discussing the supplied fictional research briefing. Action: Summarise the evidence, distinguish association from causation, identify limitations and outline a follow-up study. Read the actual supplied source in short sections; do not pretend an unheard lecture or unpublished source exists.",
+    "grammar_focus": [
+      "Formal logical markers and discourse structure (Furthermore, Consequently, Nevertheless)",
+      "Passive and impersonal structures in academic writing"
+    ],
+    "vocabulary_focus": [
+      "Greek/Latin derived technical words",
+      "abbreviations and acronyms",
+      "cite / reference",
+      "hypothesis",
+      "peer review",
+      "plagiarism",
+      "summarise",
+      "technical and legal language"
+    ],
+    "functional_objectives": [
+      "Synthesise, evaluate and summarise long or demanding texts",
+      "Plan and structure an academic paper with sources"
+    ],
+    "success_criteria": "Learner accurately summarises the supplied fictional briefing, identifies two methodological limitations, and proposes a reasoned follow-up study using appropriate academic language. No invented citations or unsupported claim of listening proficiency.",
+    "teaching_plan": {
+      "version": 3,
+      "target_language": "en",
+      "review_status": "pilot",
+      "can_do": "Synthesise, evaluate and summarise long or demanding texts",
+      "model": [
+        "The study reports an association between the intervention and improved attendance, rather than establishing causation.",
+        "A useful review would distinguish the hypothesis, the method, the limitations and the questions left unresolved."
+      ],
+      "source_text": "Fictional briefing, not a published study: A library ran six weeks of evening workshops. Forty existing members volunteered; thirty-two attended four or more sessions. Participants reported greater confidence finding reliable information online. There was no baseline confidence measure or comparison group. Non-members were not recruited. The organisers propose a larger trial with baseline measures and a comparison group. The findings suggest feasibility for these volunteers, not proof of effectiveness. Distinguish the claim, supporting evidence and limitations. Do not invent citations.",
+      "guided_tasks": [
+        "Guided reformulation: use this model and change one relevant detail: The study reports an association between the intervention and improved attendance, rather than establishing causation.",
+        "Guided reply: use this model in a different situation, with less help: A useful review would distinguish the hypothesis, the method, the limitations and the questions left unresolved."
+      ],
+      "independent_tasks": [
+        "Independent task. Summarise the evidence, distinguish association from causation, identify limitations and outline a follow-up study. Read the actual supplied source in short sections; do not pretend an unheard lecture or unpublished source exists. Demonstrate this skill: Synthesise, evaluate and summarise long or demanding texts. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Plan and structure an academic paper with sources. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Academic Research: Lectures, Notes and Summaries."
+      ],
+      "transfer_task": "Transfer: create a new, explicit situation about Academic Research: Lectures, Notes and Summaries. Ask the learner to synthesise, evaluate and summarise long or demanding texts, without supplying an answer.",
+      "review_task": "On a later occasion, retrieve this skill using a different topic and reduced support.",
+      "scope_note": "Eight short-turn tasks. Accept valid alternatives. Assess communicative success and Formal logical markers and discourse structure (Furthermore, Consequently, Nevertheless). This is focused practice, not a full CEFR assessment.",
+      "practice_tasks": [
+        "Teach this example, explain its meaning, then ask a meaning question: The study reports an association between the intervention and improved attendance, rather than establishing causation.",
+        "Teach this second example, then ask what the speaker is trying to communicate: A useful review would distinguish the hypothesis, the method, the limitations and the questions left unresolved.",
+        "Guided reformulation: use this model and change one relevant detail: The study reports an association between the intervention and improved attendance, rather than establishing causation.",
+        "Guided reply: use this model in a different situation, with less help: A useful review would distinguish the hypothesis, the method, the limitations and the questions left unresolved.",
+        "Independent task. Summarise the evidence, distinguish association from causation, identify limitations and outline a follow-up study. Read the actual supplied source in short sections; do not pretend an unheard lecture or unpublished source exists. Demonstrate this skill: Synthesise, evaluate and summarise long or demanding texts. Use your own details.",
+        "Continue the situation. Demonstrate this skill: Plan and structure an academic paper with sources. Do not require a memorised model sentence.",
+        "Ask the learner to clarify or expand their previous English answer with one relevant example. Focus: Academic Research: Lectures, Notes and Summaries.",
+        "Transfer: create a new, explicit situation about Academic Research: Lectures, Notes and Summaries. Ask the learner to synthesise, evaluate and summarise long or demanding texts, without supplying an answer."
+      ]
+    }
+  }
+]
